@@ -1,0 +1,16 @@
+.idea/
+*.iml
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+result-zh/
+
+merged_all_docs.txt
+merged_all_docs2.txt
