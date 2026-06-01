@@ -26,6 +26,7 @@ temp_docs/current_eval_*.txt
 
 data/assets/
 data/mineru_cache/
+data/*_rag_eval.json
 data/*.corpus.md
 data/*.json.report.json
 data/*.backup_*.jsonl

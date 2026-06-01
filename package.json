@@ -1,0 +1,19 @@
+{
+  "name": "rageval-forge",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Pure Node.js RAG evaluation workflows for DeepLocals, Cherry Studio, and UI-driven platforms.",
+  "bin": {
+    "rageval": "./bin/rageval.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "deeplocals": "node ./bin/rageval.js deeplocals",
+    "cherry": "node ./bin/rageval.js cherry",
+    "compare": "node ./bin/rageval.js compare"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
