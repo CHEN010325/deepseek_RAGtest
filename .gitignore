@@ -9,8 +9,26 @@ __pycache__/
 .venv/
 venv/
 env/
+.mimo_api_key
+.mineru_api_key
+.rageval_api_config.json
+.rageval_ollama_context.json
 
 result-zh/
+logs/
+test-results/
+temp_docs/
+temp_docs/ui_runs/
+temp_docs/rag_dataset_ui.*.log
+temp_docs/deepseekmine_*.log
+temp_docs/deepseekmine_selected_*.md
+temp_docs/current_eval_*.txt
+
+data/assets/
+data/mineru_cache/
+data/*.corpus.md
+data/*.json.report.json
+data/*.backup_*.jsonl
 
 merged_all_docs.txt
 merged_all_docs2.txt
