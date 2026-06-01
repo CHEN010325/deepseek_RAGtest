@@ -1,11 +1,10 @@
 .idea/
 *.iml
 
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-
+node_modules/
+npm-debug.log*
+.env
+.env.*
 .venv/
 venv/
 env/
@@ -19,7 +18,6 @@ logs/
 test-results/
 temp_docs/
 temp_docs/ui_runs/
-temp_docs/rag_dataset_ui.*.log
 temp_docs/deepseekmine_*.log
 temp_docs/deepseekmine_selected_*.md
 temp_docs/current_eval_*.txt

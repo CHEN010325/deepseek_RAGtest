@@ -14,7 +14,7 @@ test("JSONL dataset loader keeps zh_int_clean shape", async () => {
 
 test("answer rule accepts direct and compact matches", () => {
   assert.equal(isAnswerCorrect("宣誓仪式于2022年1月3日上午11时举行。", ["2022年1月3日上午11时"]), true);
-  // Keep parity with the old Python heuristic: short factual near-matches can pass
+  // Keep parity with the original heuristic: short factual near-matches can pass
   // rule scoring and should later be tightened as a separate scoring change.
   assert.equal(isAnswerCorrect("2022年1月4日", ["2022年1月3日"]), true);
   assert.equal(isAnswerCorrect("完全无关的回答", ["2022年1月3日"]), false);

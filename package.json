@@ -5,10 +5,12 @@
   "type": "module",
   "description": "Pure Node.js RAG evaluation workflows for DeepLocals, Cherry Studio, and UI-driven platforms.",
   "bin": {
-    "rageval": "./bin/rageval.js"
+    "rageval": "./bin/rageval.js",
+    "rageval-ui": "./bin/rageval-ui.js"
   },
   "scripts": {
     "test": "node --test",
+    "start": "node ./bin/rageval-ui.js",
     "deeplocals": "node ./bin/rageval.js deeplocals",
     "cherry": "node ./bin/rageval.js cherry",
     "compare": "node ./bin/rageval.js compare"
