@@ -109,7 +109,7 @@ export CHERRY_API_KEY="cs-sk-..."
 
 node bin/rageval.js compare \
   --dataset zh_int_clean \
-  --deepseekmine-api-base http://127.0.0.1:3335 \
+  --deeplocal-api-base http://127.0.0.1:3335 \
   --cherry-api-base http://127.0.0.1:23333 \
   --cherry-knowledge-base-id <Cherry知识库ID> \
   --cherry-model silicon:deepseek-ai/DeepSeek-V4-Flash \

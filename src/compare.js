@@ -73,7 +73,7 @@ export async function runPlatformCompare(options, progress = () => {}) {
     runDeepLocalsEval(
       {
         datasetName: options.dataset,
-        apiBase: options.deepseekmineApiBase,
+        apiBase: options.deeplocalApiBase,
         mode: "qa",
         limit: options.limit,
         ids: options.ids,

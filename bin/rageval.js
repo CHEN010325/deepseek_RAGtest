@@ -122,7 +122,7 @@ async function main() {
         ids: args.ids || "",
         timeout: numberArg(args.timeout, 900),
         documentCount: numberArg(args.documentCount, 20),
-        deepseekmineApiBase: args.deepseekmineApiBase || args.deeplocalApiBase || "http://127.0.0.1:3335",
+        deeplocalApiBase: args.deeplocalApiBase || "http://127.0.0.1:3335",
         cherryApiBase: args.cherryApiBase || "http://127.0.0.1:23333",
         cherryApiKey: args.cherryApiKey || "",
         cherryKnowledgeBaseId: args.cherryKnowledgeBaseId || args.knowledgeBaseId || "",
