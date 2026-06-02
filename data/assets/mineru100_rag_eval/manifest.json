@@ -1,0 +1,289 @@
+{
+  "dataset_name": "mineru100_rag_eval",
+  "job_id": "e9c44387d578",
+  "created_at": "2026-05-31 01:21:20",
+  "original_files": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\original\\seyfarth2008.pdf",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\original\\shchelochkov2019.pdf",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\original\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\original\\todo1992.pdf",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\original\\子宫内膜异位症超声评估中国专家共识.pdf"
+  ],
+  "mineru_markdown_files": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md"
+  ],
+  "mineru_metadata_files": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md.meta.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md.meta.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md.meta.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md.meta.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md.meta.json"
+  ],
+  "mineru_semantic_json_files": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md.mineru.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md.mineru.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md.mineru.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md.mineru.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md.mineru.json"
+  ],
+  "deepseekmine_chunk_files": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md.deepseekmine_chunks.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md.deepseekmine_chunks.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md.deepseekmine_chunks.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md.deepseekmine_chunks.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md.deepseekmine_chunks.json"
+  ],
+  "raw_mineru_json_files": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\5e47860d-190d-4926-8199-98106a9556c2_content_list.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\5e47860d-190d-4926-8199-98106a9556c2_content_list_v2.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\5e47860d-190d-4926-8199-98106a9556c2_model.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_content_list.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_content_list_v2.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_model.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\82759951-2153-4919-a5a8-f98eaab187f4_content_list.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\82759951-2153-4919-a5a8-f98eaab187f4_content_list_v2.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\82759951-2153-4919-a5a8-f98eaab187f4_model.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\a040f6f0-abae-4e88-819a-af50b68e389e_content_list.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\a040f6f0-abae-4e88-819a-af50b68e389e_content_list_v2.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\a040f6f0-abae-4e88-819a-af50b68e389e_model.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list_v2.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\f900c4d5-d435-4e27-be84-82355a8e64d1_model.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\layout.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\layout_1.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\layout_2.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\layout_3.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_json\\layout_4.json"
+  ],
+  "raw_mineru_zip_files": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_zips\\seyfarth2008.zip",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_zips\\shchelochkov2019.zip",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_zips\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.zip",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_zips\\todo1992.zip",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\raw_zips\\子宫内膜异位症超声评估中国专家共识.zip"
+  ],
+  "mineru_cache": {
+    "root": "E:\\RAG\\data\\mineru_cache",
+    "file_sha256": []
+  },
+  "dataset_path": "E:\\RAG\\data\\mineru100_rag_eval.json",
+  "corpus_path": "E:\\RAG\\data\\mineru100_rag_eval.corpus.md",
+  "mineru_report": [
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\seyfarth2008.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\seyfarth2008.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\seyfarth2008.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\seyfarth2008.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list_v2.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\seyfarth2008.mineru.md.mineru.json",
+      "text_chars": 26044,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\seyfarth2008.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\seyfarth2008.pdf",
+          "upload_name": "seyfarth2008.pdf",
+          "data_id": "c6b0cb8e1ec991fe7e23c7cad687102e_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 5,
+          "page_offset": 0,
+          "size_bytes": 531222
+        }
+      ]
+    },
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\shchelochkov2019.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\shchelochkov2019.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\shchelochkov2019.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\shchelochkov2019.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_model.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\shchelochkov2019.mineru.md.mineru.json",
+      "text_chars": 32302,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\shchelochkov2019.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\shchelochkov2019.pdf",
+          "upload_name": "shchelochkov2019.pdf",
+          "data_id": "649c9930e911b21966a8aa61aa3a5ebf_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 6,
+          "page_offset": 0,
+          "size_bytes": 457180
+        }
+      ]
+    },
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_model.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md.mineru.json",
+      "text_chars": 30612,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+          "upload_name": "Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+          "data_id": "2eeea5add7e64f15c685bae07a3eaa22_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 12,
+          "page_offset": 0,
+          "size_bytes": 2169379
+        }
+      ]
+    },
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\todo1992.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\todo1992.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\todo1992.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\todo1992.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_model.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\todo1992.mineru.md.mineru.json",
+      "text_chars": 20401,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\todo1992.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\todo1992.pdf",
+          "upload_name": "todo1992.pdf",
+          "data_id": "89d6636229b5fdc6bcd4488b50e2aaaa_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 4,
+          "page_offset": 0,
+          "size_bytes": 428070
+        }
+      ]
+    },
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\子宫内膜异位症超声评估中国专家共识.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\子宫内膜异位症超声评估中国专家共识.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\子宫内膜异位症超声评估中国专家共识.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\子宫内膜异位症超声评估中国专家共识.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_model.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\子宫内膜异位症超声评估中国专家共识.mineru.md.mineru.json",
+      "text_chars": 22011,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\子宫内膜异位症超声评估中国专家共识.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\子宫内膜异位症超声评估中国专家共识.pdf",
+          "upload_name": "子宫内膜异位症超声评估中国专家共识.pdf",
+          "data_id": "74f366725e1e787676d6917fc5fc0a81_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 8,
+          "page_offset": 0,
+          "size_bytes": 9424837
+        }
+      ]
+    }
+  ],
+  "config": {
+    "dataset_name": "mineru100_rag_eval",
+    "use_mineru": true,
+    "mineru_model": "vlm",
+    "language": "ch",
+    "is_ocr": true,
+    "enable_table": true,
+    "enable_formula": true,
+    "backend": "configured",
+    "model": "",
+    "base_url": "",
+    "target_count": 100,
+    "max_per_source": 20,
+    "items_per_chunk": 1,
+    "negative_count": 0,
+    "allow_heuristic": false
+  }
+}

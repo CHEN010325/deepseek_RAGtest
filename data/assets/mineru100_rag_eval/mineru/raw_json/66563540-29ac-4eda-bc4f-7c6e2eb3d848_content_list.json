@@ -1,0 +1,1757 @@
+[
+    {
+        "type": "text",
+        "text": "子宫内膜异位症超声评估中国专家共识",
+        "text_level": 1,
+        "bbox": [
+            15,
+            93,
+            701,
+            125
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中华医学会超声医学分会妇产超声学组",
+        "bbox": [
+            15,
+            152,
+            358,
+            168
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通信作者：田家玮，Email：jwtian2004@163.com；吴青青，Email：wuqq2007@163.com；",
+        "bbox": [
+            15,
+            173,
+            800,
+            190
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜玉新，Email: jiangyuxinxh@163.com ",
+        "bbox": [
+            15,
+            194,
+            375,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.3760/cma.j.cn131148-20220802-00532 ",
+        "bbox": [
+            15,
+            214,
+            377,
+            229
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chinese expert consensus on sonographic evaluation of endometriosis ",
+        "text_level": 1,
+        "bbox": [
+            13,
+            252,
+            501,
+            266
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Obstetrics and Gynecology Ultrasound Group, Ultrasound Medical Branch of Chinese Medical Association ",
+        "bbox": [
+            11,
+            270,
+            800,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding author: Tian Jiawei, Email: jwtian2004@163.com; Wu Qingqing, Email: wuqq2007@163. ",
+        "bbox": [
+            15,
+            289,
+            796,
+            304
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "com; Jiang Yuxin, Email: jiangyuxinxh@163.com ",
+        "bbox": [
+            15,
+            308,
+            394,
+            322
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.3760/cma.j.cn131148-20220802-00532 ",
+        "bbox": [
+            15,
+            326,
+            367,
+            339
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "子宫内膜异位症（简称内异症）是指子宫内膜组织（腺体和间质）出现在子宫体以外的部位，其与子宫腺肌病统称为子宫内膜异位性疾病[1]。内异症是育龄期妇女常见的慢性疾病，其主要临床症状为疼痛与不孕，明显影响患者的生活质量，及早诊断对该病的早期治疗具有重要临床意义。超声检查是内异症诊断、治疗及随访的主要影像学手段，但不同级别医院超声医师在评估时仍存在检查不规范、对内异症复杂性认识不足、漏误诊较多，以及对深部浸润型内异症病变检出率较低等诸多问题。虽然中华医学会妇产科学分会子宫内膜异位症协作组已发表《子宫内膜异位症的诊治指南》第三版[2]，但该临床指南未涉及相关超声检查规范。为此，中华医学会超声医学分会妇产超声学组组织国内有关专家，针对内异症超声检查常见问题，经过反复讨论，参考相关文献及国外共识与指南，并结合国内临床实践，形成本共识，旨在促进超声医师更加全面且规范地进行内异症的超声检查与评估。",
+        "bbox": [
+            11,
+            365,
+            482,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "问题一、内异症主要有哪些类型？",
+        "text_level": 1,
+        "bbox": [
+            53,
+            733,
+            350,
+            751
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "主要有 4 种类型：①卵巢型内异症，即卵巢子宫内膜异位囊肿，俗称巧克力囊肿，是内异症最常见的类型；②腹膜型内异症，指盆腔腹膜的浅层内异症种植病灶，由于腹膜型内异症位置表浅且常较小，常规超声检查不易显示病灶，主要依靠腹腔镜诊断；③深部浸润型内异症（deep infiltrating endometriosis, DIE），指病灶浸润深度≥5mm，包括子宫骶韧带、子宫直肠陷凹（pouch of Douglas, POD）、阴道穹隆、阴道直肠隔、直肠或结肠壁的内异症病变，也可侵犯至膀胱壁和输尿管；④其他部位内异症，包括瘢痕内异症及其他少见的远处内异症。",
+        "bbox": [
+            11,
+            754,
+            482,
+            972
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "问题二、哪些临床线索及检查方法有助于内异症的超声评估？",
+        "text_level": 1,
+        "bbox": [
+            515,
+            364,
+            980,
+            402
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 相关病史、症状、体征等临床资料",
+        "text_level": 1,
+        "bbox": [
+            555,
+            406,
+            890,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内异症临床症状主要包括痛经、慢性盆腔痛、性交痛、肛门坠痛、月经异常等，约 $40\\% \\sim 50\\%$ 的患者合并不孕[1]。出现以下症状时需考虑相应部位的内异症：①周期性便秘或便频、便血、经期排便疼痛等提示可能有肠道DIE；②经期尿频、尿急、尿痛甚至血尿提示可能为膀胱DIE；③瘢痕部位触及结节、有经期局部疼痛或结节增大时高度提示瘢痕内异症；④规律性经期咯血提示肺部内异症；⑤肾积水时要考虑输尿管DIE的可能性。",
+        "bbox": [
+            513,
+            426,
+            982,
+            611
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "妇科双合诊触及活动度欠佳的盆腔囊性包块，阴道后穹隆、POD、子宫骶韧带等部位有触痛性结节，子宫后倾固定等体征均提示内异症的可能。",
+        "bbox": [
+            513,
+            614,
+            980,
+            673
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 选择合适的探头及扫查途径 ",
+        "text_level": 1,
+        "bbox": [
+            555,
+            677,
+            831,
+            694
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内异症超声检查应尽量采用经阴道超声检查途径，尤其是疑诊 DIE 病灶及小的卵巢子宫内膜异位囊肿时 $^{[3-4]}$ 。对不能行经阴道超声检查的患者，可采用经直肠超声检查途径，检查前准备与经阴道超声一致，或可做简单的肠道准备以助获取更为清晰的图像。采用双平面探头及直肠 $360^{\\circ}$ 腔内高频探头等均有助于发现肠壁 DIE 病灶。",
+        "bbox": [
+            513,
+            698,
+            982,
+            839
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. 辅助扫查技巧",
+        "text_level": 1,
+        "bbox": [
+            555,
+            843,
+            710,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超声检查过程中，可采用一些辅助扫查手段获得更多诊断信息：①触痛阳性引导法：指腔内探头移动过程中、或对临床触痛阳性部位轻压时注意患者的疼痛反应，于疼痛阳性区域仔细寻找病灶的检查方法[5]，有助发现 DIE 病灶；②阴道或直肠生理盐水或凝胶超声成像法：经阴道超声检查时向阴道或直肠内注入生理盐水或凝胶，有助于观察阴道壁、阴道前后穹隆或直肠壁 DIE 病灶 $^{[6]}$ ；③检查前肠道准备：检查前进行适当肠道准备也有助于检出直肠、乙状结肠等部位的 DIE 病灶 $^{[7]}$ 。",
+        "bbox": [
+            513,
+            865,
+            980,
+            986
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "中华超声影像学杂志 2022 年 10 月第 31 卷第 10 期 Chin J Ultrasonogr, October 2022, Vol 31, No. 10",
+        "bbox": [
+            15,
+            10,
+            685,
+            24
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "· 837 · ",
+        "bbox": [
+            904,
+            10,
+            965,
+            23
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "·标准与规范· ",
+        "bbox": [
+            770,
+            44,
+            975,
+            66
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            13,
+            44,
+            480,
+            125
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. 子宫滑动征检查法",
+        "text_level": 1,
+        "bbox": [
+            53,
+            127,
+            249,
+            144
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "子宫滑动征是检查 POD 是否封闭的超声检查方法 $^{[8]}$ ，易于操作与掌握，不需要复杂的检查技巧。具体操作方法如下：①子宫前位时，先用腔内探头轻推宫颈，观察宫颈与直肠前壁间有无相对运动，有相对运动则提示宫颈部位子宫滑动征阳性；然后用左手置于被检查者下腹部固定子宫体，再次轻推探头，观察直肠前壁与子宫后壁间有无相对运动，有相对运动则提示宫体部位子宫滑动征阳性。两部位滑动征均阳性可判断 POD 未封闭，两部位或其中一部位滑动征阴性，判断 POD 封闭；②子宫后位时，用腔内探头轻推子宫，观察子宫后壁及子宫底区域与直肠前壁间有无相对运动，有相对运动则该部位滑动征阳性，判断 POD 未封闭；无相对运动则该部位滑动征阴性，判断 POD 封闭。",
+        "bbox": [
+            13,
+            148,
+            480,
+            430
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. 评估盆腔粘连情况",
+        "text_level": 1,
+        "bbox": [
+            53,
+            436,
+            249,
+            452
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内异症常伴有盆腔粘连，内异症严重程度评分包括对卵巢等盆腔脏器粘连情况及 POD 封闭情况的评估 $^{[2]}$ ，因此，超声评估有无盆腔粘连有助于内异症诊断及其严重程度的判定 $^{[9]}$ 。",
+        "bbox": [
+            13,
+            456,
+            480,
+            535
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "盆腔粘连的超声评估包括：①运用超声探头轻推等方法，观察卵巢与子宫、病灶与盆腔脏器间的相对运动；②应用子宫滑动征判断 POD 有无封闭；③观察盆腔粘连的间接征象，如盆腔局限性积液、腹膜包涵囊肿、输卵管积水等，也有助于盆腔粘连的评估 $^{[10]}$ 。",
+        "bbox": [
+            13,
+            538,
+            480,
+            661
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本共识推荐：对可疑内异症患者均应详细询问病史，了解相关临床症状及体征。检查时采用经腔内高频探头扫查途径，应用触痛阳性引导法、观察子宫滑动征、评估盆腔粘连情况等，可以提高超声对内异症病灶的诊断效能。",
+        "bbox": [
+            13,
+            665,
+            480,
+            769
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "问题三、内异症的系统超声评估包括哪些步骤？",
+        "text_level": 1,
+        "bbox": [
+            53,
+            783,
+            471,
+            802
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一步：自阴道正中矢状切面开始，进行规范的子宫、附件常规超声检查，包括对阴道、阴道直肠隔、子宫、卵巢及输卵管的观察，并进行相应的测量。注意观察有无卵巢子宫内膜异位囊肿等。",
+        "bbox": [
+            13,
+            805,
+            480,
+            884
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第二步：寻找前、后盆腔可疑 DIE 病灶。应用探头触痛阳性引导法等仔细寻找 DIE 病灶，尤其需注意宫颈附近、POD、直肠前壁、直肠－乙状结肠交界处、阴道直肠隔、子宫膀胱陷凹等区域有无异常回声。",
+        "bbox": [
+            13,
+            887,
+            480,
+            986
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第三步：观察卵巢活动度及子宫滑动征，注意盆腔有无局限性积液等，以评估盆腔脏器粘连及 POD 是否封闭。此外，可疑 DIE 时还应注意有无肾积水。",
+        "bbox": [
+            513,
+            44,
+            982,
+            103
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本共识推荐：对可疑子宫内膜异位症患者，应进行包括以上3个步骤的系统超声评估。",
+        "bbox": [
+            513,
+            107,
+            982,
+            144
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "问题四、卵巢子宫内膜异位囊肿有哪些声像图特征？",
+        "text_level": 1,
+        "bbox": [
+            513,
+            154,
+            982,
+            192
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 卵巢子宫内膜异位囊肿的典型超声特征[11-13]包括：①囊内容物呈“磨玻璃样”回声（也可描述为均匀密集的点状回声）（图1），囊壁较厚或厚薄不均，部分囊肿内可见中等或中高回声；②彩色多普勒血流显像（color Doppler flow imaging，CDFI）示囊肿内部无血流信号，仅在囊壁或分隔上见条状血流；③多数病灶呈单房，少数呈多房（图2），或多发囊肿（图3）。",
+        "bbox": [
+            513,
+            195,
+            982,
+            355
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eca5a11f9caee35160049fc53497b7ed42482149b591ab2118d673ff1a6c5f1c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Medical ultrasound image showing internal tissue structure with a white arrow pointing to a specific region (no text or symbols present)",
+        "sub_type": "natural_image",
+        "bbox": [
+            557,
+            362,
+            942,
+            566
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b8f821214a08c91ad10f287840b26ec8ef63528a623841b922ec4ede0e12481.jpg",
+        "image_caption": [
+            "图 1 卵巢子宫内膜异位囊肿二维灰阶声像图 囊内容物呈 “磨玻璃样” 回声，箭头所指为较厚的囊壁",
+            "图 2 多房性卵巢子宫内膜异位囊肿二维灰阶声像图 卵巢囊肿内可见两个完整分隔（箭头所示），呈多房性表现，囊腔彼此不相通，各囊腔内陈旧性血的出血时间存在差异，因而回声表现也略有不同"
+        ],
+        "image_footnote": [],
+        "content": "Ultrasound scan image showing internal tissue structure with white arrows indicating specific regions (no text or symbols present)",
+        "sub_type": "natural_image",
+        "bbox": [
+            557,
+            605,
+            942,
+            790
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2. 卵巢子宫内膜异位囊肿内陈旧性积血或血凝块的声像图常表现为囊肿内不规则云雾状中等回声，或团块状中高回声（图 4）。",
+            "3. 卵巢子宫内膜异位囊肿常与子宫或盆壁粘连。超声检查时探头轻推，囊肿位置固定、与子宫及其他周围脏器间无相对运动。双侧卵巢子宫内膜异位囊肿"
+        ],
+        "bbox": [
+            513,
+            868,
+            982,
+            986
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "· 838 · ",
+        "bbox": [
+            28,
+            10,
+            90,
+            23
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "中华超声影像学杂志 2022 年 10 月第 31 卷第 10 期 Chin J Ultrasonogr, October 2022, Vol 31, No. 10",
+        "bbox": [
+            310,
+            10,
+            982,
+            24
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab912e6710609b8d61d4e8a4995364d34c924ead26691e913728721f0b0c25e1.jpg",
+        "image_caption": [
+            "图 3 多发卵巢子宫内膜异位囊肿二维灰阶声像图 卵巢内见两个囊内容物呈 “磨玻璃样” 回声的小囊肿（\\* 所示），囊肿间可见卵泡等正常卵巢组织"
+        ],
+        "image_footnote": [],
+        "content": "Ultrasound scan image showing internal anatomical structures with asterisk annotations (no text or symbols present)",
+        "sub_type": "natural_image",
+        "bbox": [
+            55,
+            46,
+            440,
+            237
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e61ba8db264d41b98734ca9ef61476e1b1417a1420da1ba52f2ac13ae4ad3665.jpg",
+        "image_caption": [
+            "图 4 卵巢子宫内膜异位囊肿内血凝块二维灰阶声像图 囊肿的“磨玻璃样”回声内可见团块状中高回声（\\*所示），彩色多普勒血流显像（CDFI）未见血流信号。手术证实为血凝块"
+        ],
+        "image_footnote": [],
+        "content": "Medical ultrasound image showing internal tissue structure with a marked asterisk (no text or symbols present)",
+        "sub_type": "natural_image",
+        "bbox": [
+            55,
+            302,
+            440,
+            495
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "也较常见，可在子宫后方彼此粘连、固定，称为“接吻征”（图 5）。此时多提示盆腔粘连较重 $^{[14]}$ ，且可能存在 DIE 病灶。",
+        "bbox": [
+            13,
+            559,
+            480,
+            616
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0922f78da25a3900e625914c0806b6562d2105fe675f4555c5827c62f4957b73.jpg",
+        "image_caption": [
+            "图 5 双侧卵巢子宫内膜异位囊肿 “接吻征” 二维灰阶声像图 子宫后方见两个囊性病灶，彼此粘连在一起，探头推之不能分开，呈 “接吻征” 表现（箭头所示）。手术病理证实为左、右卵巢子宫内膜异位囊肿且彼此粘连在一起（R-OEM：右侧卵巢子宫内膜异位囊肿；L-OEM：左侧卵巢子宫内膜异位囊肿）"
+        ],
+        "image_footnote": [],
+        "content": "R-OEM\nL-OEM",
+        "sub_type": "text_image",
+        "bbox": [
+            55,
+            622,
+            440,
+            805
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. 妊娠期的卵巢子宫内膜异位囊肿约 $40\\%$ 囊壁发生蜕膜化[15-16]。超声表现为囊壁明显增厚，可见多发乳头状突起，乳头形态较规则（图6）；CDFI显示增厚的囊壁及乳头内均可见丰富血流信号（图7）。",
+        "bbox": [
+            13,
+            908,
+            480,
+            986
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4d1cef9489cbf5427821fdf48c2b7ad864f6abbe539d0340948dfcba5f92e22.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Ultrasound scan image showing internal organ structure with white arrows indicating specific regions (no text or symbols present)",
+        "sub_type": "natural_image",
+        "bbox": [
+            557,
+            44,
+            942,
+            240
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/db8993f74f4e866cebf3850f70b4494681d9846060a5a33735cbfdbb8b5c4a6c.jpg",
+        "image_caption": [
+            "图 6 妊娠期卵巢子宫内膜异位囊肿蜕膜化二维灰阶声像图 孕 12 周，一侧卵巢见多房囊肿，一个囊腔呈“磨玻璃样”表现，另一个囊腔的囊内壁上见多个形态较规则的乳头状突起（箭头所示）",
+            "图 7 妊娠期卵巢子宫内膜异位囊肿蜕膜化 CDFI 声像图 显示乳头内较丰富血流信号（箭头所示），分隔及囊壁上也见较丰富血流信号（空心箭头所示）"
+        ],
+        "image_footnote": [],
+        "content": "Medical ultrasound image with color Doppler flow visualization and measurement scale, showing cardiac structures with color-coded Doppler intensity",
+        "sub_type": "text_image",
+        "bbox": [
+            557,
+            313,
+            942,
+            491
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. 内异症恶变的超声征象：①卵巢子宫内膜异位囊肿明显增大（最大径≥10cm）；②囊内回声发生变化，出现实性回声结构，且CDFI显示较丰富血流信号；③绝经后囊肿不缩小反而增大。以上征象均应警惕内异症恶变的可能性。",
+        "bbox": [
+            513,
+            555,
+            980,
+            653
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "问题五、不同部位 DIE 有哪些声像图特征？",
+        "text_level": 1,
+        "bbox": [
+            555,
+            665,
+            936,
+            680
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 膀胱 DIE ",
+        "text_level": 1,
+        "bbox": [
+            555,
+            684,
+            672,
+            699
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "检查时膀胱适度充盈。超声表现：①膀胱壁内低回声病灶，呈结节状或不规则形，多位于膀胱后壁中线处，有时向膀胱腔内突出[17]；②病灶位于膀胱壁的肌层内，部分病例浆膜层受累，但极少累及黏膜层（图8）；③CDFI显示病灶内散在血流信号；④子宫-膀胱陷凹常因粘连而封闭，阴道探头轻推之，子宫前壁与膀胱间的相对运动消失。",
+        "bbox": [
+            513,
+            705,
+            980,
+            843
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. 输尿管 DIE",
+        "text_level": 1,
+        "bbox": [
+            555,
+            847,
+            691,
+            862
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "绝大多数输尿管 DIE 为子宫骶韧带等后盆腔 DIE 病灶累及所致，病灶压迫或直接累及输尿管造成梗阻，表现为患侧肾积水，严重者可导致重度肾积水、肾功能受损 $^{[18-19]}$ 。",
+        "bbox": [
+            513,
+            868,
+            980,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "超声检查可见肾盂、输尿管积水的间接征象；有时于宫旁输尿管周围可见形态不规则的低回声病灶，但若无输尿管扩张或肾积水，因输尿管 DIE 病灶较隐匿，常常被漏诊。",
+        "bbox": [
+            513,
+            949,
+            980,
+            986
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "中华超声影像学杂志 2022 年 10 月第 31 卷第 10 期 Chin J Ultrasonogr, October 2022, Vol 31, No. 10",
+        "bbox": [
+            15,
+            10,
+            685,
+            24
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "· 839 · ",
+        "bbox": [
+            906,
+            10,
+            965,
+            23
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88f9ad157a0f5e74d9f950bd5e6f69470c0cd1ef936285c74e5bdf1a9faed37e.jpg",
+        "image_caption": [
+            "图 8 膀胱 DIE 二维灰阶声像图 经阴道超声膀胱纵切面，可见病灶位于膀胱后壁肌层内，呈低回声，黏膜层连续性完整（箭头所示）（BL：膀胱）"
+        ],
+        "image_footnote": [],
+        "content": "BL",
+        "sub_type": "text_image",
+        "bbox": [
+            55,
+            46,
+            440,
+            239
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            13,
+            304,
+            480,
+            341
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. 子宫骶韧带 DIE",
+        "text_level": 1,
+        "bbox": [
+            53,
+            346,
+            231,
+            361
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "子宫骶韧带是 DIE 最常累及部位之一，且常为双侧受累。正常情况下超声较难显示子宫骶韧带，有 DIE 病灶时，超声表现为宫颈下段两侧边界不清的低回声结节（图 9），或条索状低回声区，横切面上病灶位于宫颈后外侧 $^{[20]}$ 。",
+        "bbox": [
+            13,
+            366,
+            480,
+            464
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d4b02da71aef56e680de1d4f310d25caf578aa5ff159197dea73a783a6b0af4.jpg",
+        "image_caption": [
+            "图 9 子宫骶韧带 DIE 二维灰阶声像图 子宫骶韧带上可见呈低回声的 DIE 结节（箭头所示），该患者同时有卵巢多发子宫内膜异位囊肿（星号所示处）、子宫腺肌病及肠道 DIE（USL：骶韧带；UT：子宫；LOV：左卵巢）"
+        ],
+        "image_footnote": [],
+        "content": "USL\nUT\n*\nLOV\n*",
+        "sub_type": "text_image",
+        "bbox": [
+            55,
+            470,
+            440,
+            654
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. 子宫直肠陷凹 DIE",
+        "text_level": 1,
+        "bbox": [
+            53,
+            740,
+            250,
+            756
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "POD 位于子宫颈后方、阴道直肠隔之上，也是 DIE 最常累及部位之一。超声表现：①病灶位于宫颈和（或）宫体后方，边界不清（图 10）；②子宫滑动征阴性；③病灶向下浸润累及阴道后穹隆、阴道直肠隔；向后浸润累及直肠前壁；向前浸润累及子宫浆膜层。",
+        "bbox": [
+            13,
+            760,
+            480,
+            881
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. 阴道直肠隔 DIE ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            885,
+            231,
+            902
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阴道直肠隔指阴道后壁与直肠前壁之间的区域，范围从宫颈后唇下缘水平至阴道口。如 DIE 病灶位于宫颈后唇下缘水平以下（腹膜返折线以下）时，可提示阴道直肠隔 DIE $^{[9]}$ 。超声表现：病灶位置较低，呈结节状、长条形或不规则低回声区，偶可见部分无回声区 $^{[21]}$ 。该区域 DIE 可向前浸润累及阴道后壁，向后浸润累及直肠前壁（图 11）。",
+        "bbox": [
+            13,
+            906,
+            480,
+            986
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            44,
+            980,
+            101
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc4af3da1be48e60960c1264bef505694ccac7e158affff1d1f7f495d1395e7b.jpg",
+        "image_caption": [
+            "图 10 子宫直肠陷凹 DIE 二维灰阶声像图 病灶位于子宫下段及宫颈后方，呈低回声区，边界不清（箭头所示）（UT：子宫）"
+        ],
+        "image_footnote": [],
+        "content": "UT",
+        "sub_type": "text_image",
+        "bbox": [
+            557,
+            107,
+            942,
+            301
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a4579ae4d21ced551ecc542f9d62186fe7cda36438eb94e42cb5268961631fe.jpg",
+        "image_caption": [
+            "图 11 子宫直肠陷凹及阴道直肠隔 DIE 累及直肠二维灰阶声像图 宫颈后方及下方可见呈长条形低回声的 DIE 病灶（箭头所示），向后累及直肠，直肠前壁局部增厚，呈低回声（空心箭头所示）（CX：宫颈；R：直肠腔）"
+        ],
+        "image_footnote": [],
+        "content": "CX\nR",
+        "sub_type": "text_image",
+        "bbox": [
+            557,
+            349,
+            942,
+            538
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. 肠道 DIE",
+        "text_level": 1,
+        "bbox": [
+            555,
+            620,
+            672,
+            635
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DIE 累及直肠和（或）乙状结肠也较为常见，以直肠受累更常见 $^{[22-23]}$ 。病灶常呈多灶性，即同一节段肠壁见多个病灶或数个肠段均受累。超声表现：①在肠管纵切面可见病灶呈长条形、带状或结节状低回声，两端呈“蝌蚪尾状”，边缘可不规则、呈特征性“印第安头饰”表现，即病灶边缘向肠腔方向延伸出多个“羽毛状”低回声（图 12）；②部分病灶边缘呈规则结节状（图 13）；③肠管横切面可见病灶位于直肠或乙状结肠前壁，多呈楔形（图 14）；④CDFI 于病灶内可见散在血流信号（图 15）；⑤肠道 DIE 病灶位于肠壁肌层及浆膜层，极少累及黏膜层。",
+        "bbox": [
+            513,
+            639,
+            982,
+            862
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因 DIE 病灶常累及盆腔多个部位，且常与卵巢型内异症并存，应注意对 DIE 好发的宫颈后区域（子宫骶韧带、POD）、阴道直肠隔、直肠、乙状结肠等部位进行观察。发现可疑 DIE 病灶时，需对 DIE 病灶部位及数目等进行详细描述，并注意评估盆腔粘连情况及有无肾积水等。",
+        "bbox": [
+            513,
+            866,
+            980,
+            986
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "• 840 • ",
+        "bbox": [
+            28,
+            10,
+            88,
+            23
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "中华超声影像学杂志 2022 年 10 月第 31 卷第 10 期 Chin J Ultrasonogr, October 2022, Vol 31, No. 10",
+        "bbox": [
+            310,
+            10,
+            982,
+            24
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/13a0704681a244377109498743d87ee4b1415e95c7ed0a42262515a7dd58dee7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Ultrasound scan image showing internal tissue structure with white arrows indicating specific regions (no text or symbols present)",
+        "sub_type": "natural_image",
+        "bbox": [
+            55,
+            44,
+            438,
+            221
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/df5bd4484e472208fcecfac322a3cd4e99bd3c2f944a78984a62b7e8eb3f8983.jpg",
+        "image_caption": [
+            "图 12 肠道 DIE 的 “印第安人头饰” 征二维灰阶声像图 直肠 DIE 病灶呈多条羽毛状低回声（箭头所指），似 “印第安人头饰” （UT：子宫）",
+            "图 13 肠道 DIE 的结节状二维灰阶声像图 直肠 DIE 病灶呈结节状低回声（箭头所示）（R：直肠）"
+        ],
+        "image_footnote": [],
+        "content": "R\nx",
+        "sub_type": "text_image",
+        "bbox": [
+            55,
+            279,
+            438,
+            452
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dfba9df99978809470835125b5f73edcaae1282c6fef7990b8826f21da17dae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Ultrasound image showing internal tissue structure with labeled region 'R' and measurement markers (no text or symbols beyond labels)",
+        "sub_type": "natural_image",
+        "bbox": [
+            55,
+            493,
+            438,
+            676
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/44ff6fdead1e6a34322fae623776b8fb95e2bb5a99fcebbe40a26a2923de5575.jpg",
+        "image_caption": [
+            "图 14 肠道 DIE 横切面二维灰阶声像图 横切面上直肠 DIE 病灶呈楔形低回声（R：直肠）",
+            "图 15 肠道 DIE 的 CDFI 声像图 宫颈及阴道上段后方的直肠壁可见低回声 DIE 病灶（箭头所示），CDFI 显示病灶内散在的条状血流信号（CX：宫颈；R：直肠腔）"
+        ],
+        "image_footnote": [],
+        "content": "CX\nR\n-6.0\ncm/s\nx\n-2\n-3",
+        "sub_type": "text_image",
+        "bbox": [
+            55,
+            716,
+            438,
+            884
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本共识建议：密切结合临床相关资料对深部浸润型内异症进行全面、规范的超声评估，并建议对疑诊病例常规评估泌尿系统情况。",
+        "bbox": [
+            13,
+            949,
+            480,
+            986
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            44,
+            770,
+            62
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "问题六、瘢痕内异症主要有哪些？其声像图特征？",
+        "bbox": [
+            513,
+            73,
+            980,
+            110
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "瘢痕内异症主要指剖宫产术后腹壁切口瘢痕、会阴侧切口或撕裂处瘢痕内异症，前者病灶位于腹壁皮下脂肪层和（或）腹壁肌层，后者病灶位于会阴部皮下脂肪和（或）肌层内。",
+        "bbox": [
+            513,
+            115,
+            980,
+            192
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "瘢痕内异症的超声特征：①病灶呈实性低回声，形态不规则（图 16），且大多内部回声不均匀（图 17），有时见大小不等囊性区域；②CDFI 显示病灶内散在血流信号（图 18）。",
+        "bbox": [
+            513,
+            197,
+            980,
+            274
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "会阴部瘢痕内异症病灶内有时可见较丰富的血流信号，与会阴部血供丰富有关。结合与月经周期相关的瘢痕部位疼痛等临床症状、体征，可做出相应诊断。",
+        "bbox": [
+            513,
+            279,
+            980,
+            315
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/de0cd678152557690ad75a20cb91d586495d8253afe991f58add715b953b740b.jpg",
+        "image_caption": [
+            "图 16 会阴内异症二维灰阶声像图 病灶位于会阴侧切口瘢痕部位，呈不规则结节状低回声区"
+        ],
+        "image_footnote": [],
+        "content": "Medical ultrasound image showing tissue layers with measurement annotations (no readable text or symbols beyond measurement markers)",
+        "sub_type": "natural_image",
+        "bbox": [
+            557,
+            320,
+            940,
+            457
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7940b8eeeaac0cef2ac84eb200309604b6e8e4ddf61d665cf4ed6a8d80c46678.jpg",
+        "image_caption": [
+            "图 17 腹壁内异症二维灰阶声像图 病灶位于下腹部剖宫产切口瘢痕部位的腹壁肌层内，呈结节状低回声区，内部回声不均匀，部分边界不清"
+        ],
+        "image_footnote": [],
+        "content": "Ultrasound scan image showing internal tissue structure with measurement annotations (Dist 2.24 cm, Dist 1.37 cm) and a scale bar (no textual content beyond labels)",
+        "sub_type": "natural_image",
+        "bbox": [
+            557,
+            498,
+            940,
+            686
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bce4f20123f264c991d5784f9af60ba7ba5dd9f4b073912dd8bb05d6d08679d.jpg",
+        "image_caption": [
+            "图 18 腹壁内异症 CDFI 声像图 病灶（箭头所指）内可见散在点状或短条状血流信号，紧邻病灶后方可见一正常腹壁血管的长条状血流信号（空心箭头所示）"
+        ],
+        "image_footnote": [],
+        "content": "Medical ultrasound image showing internal tissue structures with colored markers and directional arrows (no text or symbols present)",
+        "sub_type": "natural_image",
+        "bbox": [
+            557,
+            741,
+            940,
+            934
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "中华超声影像学杂志 2022 年 10 月第 31 卷第 10 期 Chin J Ultrasonogr, October 2022, Vol 31, No. 10",
+        "bbox": [
+            15,
+            10,
+            685,
+            24
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "• 841 • ",
+        "bbox": [
+            906,
+            10,
+            965,
+            23
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            13,
+            44,
+            480,
+            82
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本共识建议：应重视与月经周期相关的瘢痕处疼痛主诉，使用高频探头对疼痛部位进行超声扫查，以发现瘢痕内异症病灶。",
+        "bbox": [
+            13,
+            86,
+            480,
+            146
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "问题七、内异症的鉴别诊断要点有哪些？",
+        "text_level": 1,
+        "bbox": [
+            53,
+            156,
+            411,
+            173
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "卵巢子宫内膜异位囊肿需与卵巢出血性囊肿、畸胎瘤、卵巢上皮性肿瘤、盆腔脓肿等相鉴别；膀胱和直肠部位 DIE 需与膀胱癌和直肠癌相鉴别。",
+        "bbox": [
+            13,
+            177,
+            480,
+            236
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. 卵巢出血性囊肿内常见网状、条索状或粗细不均的点状回声，超声随诊囊肿大小与回声的变化有助于明确诊断。",
+        "bbox": [
+            13,
+            240,
+            480,
+            298
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. 卵巢子宫内膜异位囊肿内较黏稠陈旧积血的回声较高，与“磨玻璃样”回声成分间可表现为分层征，需与畸胎瘤的脂液分层征相鉴别。前者高回声部分位于下层、低回声部分位于上层，而后者高回声的脂质位于上层；此外，前者分层界面有时可随体位改变，且不一定呈直线。",
+        "bbox": [
+            13,
+            302,
+            480,
+            423
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. 卵巢子宫内膜异位囊肿内血凝块与卵巢上皮性肿瘤的乳头及实性病变鉴别要点：①CDFI检查块状有回声区内有无血流是关键，卵巢肿瘤的乳头状结构及实性病变内一般可见血流信号，尤其是交界性或恶性肿瘤。若CDFI鉴别困难时，超声造影有助明确诊断；②应用探头轻推或改变体位，观察囊内回声的移动性也有助于鉴别。",
+        "bbox": [
+            13,
+            427,
+            480,
+            569
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. 多房性卵巢子宫内膜异位囊肿与卵巢其他的多房性囊性肿瘤的鉴别要点：前者囊内容物呈“磨玻璃样”回声、囊壁相对较厚，后者多无此表现，有助鉴别。但有时卵巢子宫内膜异位囊肿与卵巢黏液性上皮肿瘤的声像图表现有较多重叠，鉴别仍较困难。",
+        "bbox": [
+            13,
+            573,
+            480,
+            673
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. 妊娠期卵巢子宫内膜异位囊肿蜕膜化需与卵巢肿瘤相鉴别，病史及超声随访观察对鉴别诊断有较大帮助。",
+        "bbox": [
+            13,
+            677,
+            480,
+            736
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6. 卵巢子宫内膜异位囊肿与盆腔脓肿的鉴别要点：①盆腔脓肿临床常有发热、下腹疼痛及明显压痛等急性感染症状；而前者在未合并感染的情况下一般不出现上述临床表现；②声像图上盆腔脓肿囊壁厚薄不均，各囊相通，呈管道状结构；③卵巢子宫内膜异位囊肿合并感染时与盆腔脓肿鉴别较为困难。有卵巢子宫内膜异位囊肿病史、抗感染治疗后声像图的变化等有助于鉴别。",
+        "bbox": [
+            13,
+            740,
+            480,
+            903
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. 膀胱和直肠部位 DIE 需与膀胱癌和直肠癌相鉴别：DIE 病灶超声表现为浆膜层及肌层受累，很少累及黏膜层，且黏膜层光滑；而膀胱癌、直肠癌则病灶位于黏膜层，并呈乳头状或菜花状向管腔内生长，",
+        "bbox": [
+            13,
+            906,
+            480,
+            986
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "肿瘤晚期才会侵及管壁全层。",
+        "bbox": [
+            515,
+            44,
+            770,
+            62
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "问题八、超声检查评估 DIE 准确性如何？存在哪些局限性？",
+        "text_level": 1,
+        "bbox": [
+            513,
+            73,
+            980,
+            111
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DIE 具有病变广泛、形态多样、侵袭性和复发性等特点，病变部位隐匿，不易发现，超声检查较易漏诊。国外文献荟萃分析显示 $^{[21,24-25]}$ ，经阴道超声检查对 DIE 病灶检出的总敏感度 78.5%～85.3%，特异度 46.1%～92.5%，诊断准确率 75.7%～97%。各部位 DIE 超声检查的敏感度与特异度分别为：直肠、乙状结肠 33.3%～98.1% 与 86%～100%，子宫骶韧带 10%～88.9% 与 75%～99.6%，阴道直肠隔 36%～62% 与 95%～99%，膀胱 20%～100% 与 96.4%～100%。文献报道的超声评估 DIE 的准确性差异较大。目前国内尚无相关大样本统计数据报道，规范化超声评估 DIE 的临床研究数据有待积累。",
+        "bbox": [
+            513,
+            114,
+            982,
+            355
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "超声评估 DIE 存在以下局限性：①当 DIE 病灶累及肠道等部位时，超声检查较易发现病灶；但当 DIE 病灶位于子宫骶韧带、阴道直肠隔等部位时，超声检查对病灶的检出率均不高；②即使相对易观察区域，超声检查也较难发现较小的 DIE 病灶；③超声检查尚难以对盆腔所有 DIE 病灶进行全面、准确的定位评估。",
+        "bbox": [
+            513,
+            360,
+            982,
+            500
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结语 ",
+        "text_level": 1,
+        "bbox": [
+            555,
+            512,
+            601,
+            528
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "超声是内异症首选的无创影像学检查方法。不同部位的内异症有其相应的特征性声像图表现，有些病灶超声表现复杂、多变，且常见多个部位内异症共存的情况。对一些 DIE 病灶，超声在发现及准确定位方面仍存在一定局限性，对少数表现不典型卵巢子宫内膜异位囊肿的鉴别诊断也仍较困难。对可疑内异症患者进行超声检查时，应密切结合病史、症状、体征等临床资料，充分掌握内异症相关检查方法、途径、技巧及声像图特征，进行全面、规范的超声评估，为内异症的早期诊断、临床治疗及随访提供更多有效的信息。",
+        "bbox": [
+            513,
+            532,
+            982,
+            754
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利益冲突 所有作者均声明不存在利益冲突",
+        "bbox": [
+            515,
+            764,
+            808,
+            779
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "共识编写组成员",
+        "bbox": [
+            515,
+            786,
+            626,
+            800
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "组长：姜玉新 田家玮 吴青青",
+        "bbox": [
+            515,
+            804,
+            747,
+            817
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "执笔人：",
+        "bbox": [
+            515,
+            820,
+            572,
+            834
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "戴晴 中国医学科学院 北京协和医学院 北京协和医院",
+        "bbox": [
+            547,
+            836,
+            925,
+            851
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "核心专家组成员：",
+        "bbox": [
+            515,
+            855,
+            632,
+            868
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "戴晴 中国医学科学院 北京协和医学院 北京协和医院",
+        "bbox": [
+            547,
+            872,
+            925,
+            885
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "谢红宁 中山大学附属第一医院",
+        "bbox": [
+            547,
+            889,
+            764,
+            900
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "张晶 解放军总医院第一医学中心",
+        "bbox": [
+            547,
+            904,
+            793,
+            918
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "王慧芳 北京大学深圳医院",
+        "bbox": [
+            547,
+            922,
+            733,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "张新玲 中山大学附属第三医院",
+        "bbox": [
+            547,
+            938,
+            762,
+            952
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "雷凯荣 上海医大医院",
+        "bbox": [
+            547,
+            956,
+            701,
+            968
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "鲁 红 浙江大学医学院附属妇产科医院",
+        "bbox": [
+            547,
+            972,
+            823,
+            986
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "· 842 · ",
+        "bbox": [
+            28,
+            10,
+            90,
+            23
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "中华超声影像学杂志 2022 年 10 月第 31 卷第 10 期 Chin J Ultrasonogr, October 2022, Vol 31, No. 10",
+        "bbox": [
+            310,
+            10,
+            982,
+            24
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "ref_text",
+        "text": "应 涛 上海交通大学附属第六人民医院",
+        "bbox": [
+            45,
+            44,
+            323,
+            59
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "ref_text",
+        "text": "栗河舟 郑州大学第三附属医院",
+        "bbox": [
+            45,
+            62,
+            262,
+            76
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "ref_text",
+        "text": "尚宁 广东省妇幼保健院",
+        "bbox": [
+            45,
+            78,
+            233,
+            93
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "ref_text",
+        "text": "田家玮 哈尔滨医科大学附属第二医院",
+        "bbox": [
+            47,
+            96,
+            308,
+            108
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "ref_text",
+        "text": "吴青青 首都医科大学附属北京妇产医院",
+        "bbox": [
+            47,
+            112,
+            323,
+            126
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "ref_text",
+        "text": "姜玉新 中国医学科学院 北京协和医学院 北京协和医院",
+        "bbox": [
+            45,
+            130,
+            423,
+            142
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "bbox": [
+            183,
+            158,
+            310,
+            173
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] 谢幸, 孔北华, 段涛, 等. 妇产科学 [M]. 第 9 版. 人民卫生出版社, 2018 年.",
+            "[2] 中国医师协会妇产科医师分会, 中华医学会妇产科学分会子宫内膜异位症协作组. 子宫内膜异位症诊治指南(第三版)[J]. 中华妇产科杂志, 2021, 56(12): 812-824. DOI: 10.3760/cma.j.cn112141-20211018-00603.",
+            "Chinese Obstetricians and Gynecologists Association, Cooperative Group of Endometriosis, Chinese Society of Obstetrics and Gynecology, Chinese Medical Association. Guideline for the diagnosis and treatment of endometriosis (Third edition) [J]. Chin J Obstet Gynecol, 2021, 56(12): 812-824. DOI:10.3760/cma.j.cn112141-20211018-00603. ",
+            "[3] Guerriero S, Saba L, Pascual MA, et al. Transvaginal ultrasound vs magnetic resonance imaging for diagnosing deep infiltrating endometriosis: systematic review and meta-analysis [J]. Ultrasound Obstet Gynecol, 2018, 51(5): 586-595. DOI: 10.1002/uog.18961. ",
+            "[4] Goncalves MO, Siufi Neto J, Andres MP, et al. Systematic evaluation of endometriosis by transvaginal ultrasound can accurately replace diagnostic laparoscopy, mainly for deep and ovarian endometriosis [J]. Hum Reprod, 2021, 36(6): 1492-1500. DOI: 10.1093/humrep/deab085. ",
+            "[5] Guerriero S, Ajossa S, Gerada M, et al. Diagnostic value of transvaginal ‘tenderness-guided’ ultrasonography for the prediction of location of deep endometriosis [J]. Hum Reprod, 2008, 23(11): 2452-2457. DOI: 10.1093/humrep/den293. ",
+            "[6] Barra F, Leone Roberti Maggiore U, Evangelisti G, et al. A prospective study comparing rectal water contrast-transvaginal ultrasonography with sonovaginography for the diagnosis of deep posterior endometriosis [J]. Acta Obstet Gynecol Scand, 2021, 100(9): 1700-1711. DOI: 10.1111/aogs.14209. ",
+            "[7] Ros C, Rius M, Abrao MS, et al. Bowel preparation prior to transvaginal ultrasound improves detection of rectosigmoid deep infiltrating endometriosis and is well tolerated: prospective study of women with suspected endometriosis without surgical criteria [J]. Ultrasound Obstet Gynecol, 2021, 57(2):335-341. DOI: 10.1002/uog.22058. ",
+            "[8] Hudelist G, Fritzer N, Staettner S, et al. Uterine sliding sign: a simple sonographic predictor for presence of deep infiltrating endometriosis of the rectum [J]. Ultrasound Obstet Gynecol, 2013, 41(6): 692-695. DOI: 10.1002/uog.12431. ",
+            "[9] Ichikawa M, Akira S, Kaseki H, et al. Accuracy and clinical value of an adhesion scoring system: a preoperative diagnostic method using transvaginal ultrasonography for endometriotic adhesion [J]. J Obstet Gynaecol Res, 2020, 46(3): 466-478. DOI: 10.1111/jog.14191. ",
+            "[10] Guerriero S, Condous G, van den Bosch T, et al. Systematic "
+        ],
+        "bbox": [
+            22,
+            187,
+            480,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "approach to sonographic evaluation of the pelvis in women with suspected endometriosis, including terms, definitions and measurements: a consensus opinion from the International Deep Endometriosis Analysis (IDEA) group [J]. Ultrasound Obstet Gynecol, 2016, 48(3): 318-332. DOI: 10.1002/uog.15955. ",
+            "[11] Timmerman D, Valentin L, Bourne TH, et al. Terms, definitions and measurements to describe the sonographic features of adnexal tumors: a consensus opinion from the International Ovarian Tumor Analysis (IOTA) Group[J]. Ultrasound Obstet Gynecol, 2000, 16(5): 500-505. DOI: 10.1046/j.1469-0705.2000.00287.x. ",
+            "[12] Andreotti RF, Timmerman D, Benacerraf BR, et al. Ovarian-adnexal reporting lexicon for ultrasound: a white paper of the ACR ovarian-adnexal reporting and data system committee[J]. J Am Coll Radiol, 2018, 15(10): 1415-1429. DOI: 10.1016/j.jacr.2018.07.004. ",
+            "[13] Andreotti RF, Timmerman D, Strachowski LM, et al. O-RADS US risk stratification and management system: a consensus guideline from the ACR ovarian-adnexal reporting and data system committee [J]. Radiology, 2020, 294(1): 168-185. DOI: 10.1148/radiol.2019191150. ",
+            "[14] Ghezzi F, Raio L, Cromi A, et al. “Kissing ovaries”: a sonographic sign of moderate to severe endometriosis [J]. Fertil Steril, 2005, 83(1): 143-147. DOI: 10.1016/j.fertnstert.2004.05.094. ",
+            "[15] Mascilini F, Moruzzi C, Giansiracusa C, et al. Imaging in gynecological disease. 10: clinical and ultrasound characteristics of decidualized endometriomas surgically removed during pregnancy [J]. Ultrasound Obstet Gynecol, 2014, 44(3): 354-360. DOI: 10.1002/uog.13323. ",
+            "[16] Mascilini F, Savelli L, Scifo MC, et al. Ovarian masses with papillary projections diagnosed and removed during pregnancy: ultrasound features and histological diagnosis [J]. Ultrasound Obstet Gynecol, 2017, 50 (1): 116-123. DOI: 10.1002/uog.17216. ",
+            "[17] Leone Roberti Maggiore U, Ferrero S, Candiani M, et al. Bladder endometriosis: a systematic review of pathogenesis, diagnosis, treatment, impact on fertility, and risk of malignant transformation[J]. Eur Urol, 2017, 71(5): 790-807. DOI: 10.1016/j.eururo.2016.12.015. ",
+            "[18] Carfagna P, De Cicco Nardone C, De Cicco Nardone A, et al. Role of transvaginal ultrasound in evaluation of ureteral involvement in deep infiltrating endometriosis [J]. Ultrasound Obstet Gynecol, 2018, 51(4): 550-555. DOI: 10.1002/uog.17524. ",
+            "[19] Barra F, Scala C, Biscaldi E, et al. Ureteral endometriosis: a systematic review of epidemiology, pathogenesis, diagnosis, treatment, risk of malignant transformation and fertility [J]. Hum Reprod Update, 2018, 24(6): 710-730. DOI: 10.1093/humupd/dmy027. ",
+            "[20] Ros C, de Guirior C, Mension E, et al. Transvaginal ultrasound for diagnosis of deep endometriosis involving uterosacral ligaments, torus uterus and posterior vaginal fornix: prospective study[J]. Ultrasound Obstet Gynecol, 2021, 58(6): 926-932. DOI: 10.1002/uog.23696. ",
+            "[21] Guerriero S, Ajossa S, Minguez JA, et al. Accuracy of "
+        ],
+        "bbox": [
+            515,
+            44,
+            982,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "中华超声影像学杂志 2022 年 10 月第 31 卷第 10 期 Chin J Ultrasonogr, October 2022, Vol 31, No. 10",
+        "bbox": [
+            15,
+            10,
+            687,
+            24
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "· 843 · ",
+        "bbox": [
+            906,
+            10,
+            965,
+            23
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "transvaginal ultrasound for diagnosis of deep endometriosis in uterosacral ligaments, rectovaginal septum, vagina and bladder: systematic review and meta-analysis [J]. Ultrasound Obstet Gynecol, 2015, 46(5): 534-545. DOI: 10.1002/uog.15667. ",
+            "[22] Gerges B, Li W, Leonardi M, et al. Optimal imaging modality for detection of rectosigmoid deep endometriosis: systematic review and meta-analysis[J]. Ultrasound Obstet Gynecol, 2021, 58(2): 190-200. DOI: 10.1002/uog.23148. ",
+            "[23] Aas-Eng MK, Lieng M, Dauser B, et al. Transvaginal sonography accurately determines extent of infiltration of rectosigmoid deep endometriosis[J]. Ultrasound Obstet Gynecol, 2021, 58(6): 933-939. DOI: 10.1002/uog.23728. "
+        ],
+        "bbox": [
+            17,
+            44,
+            480,
+            247
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[24] Guerriero S, Ajossa S, Orozco R, et al. Accuracy of transvaginal ultrasound for diagnosis of deep endometriosis in the rectosigmoid: systematic review and meta-analysis [J]. Ultrasound Obstet Gynecol, 2016, 47(3): 281-289. DOI: 10.1002/uog.15662. ",
+            "[25] Deslandes A, Parange N, Childs JT, et al. Current status of transvaginal ultrasound accuracy in the diagnosis of deep infiltrating endometriosis before surgery: a systematic review of the literature [J]. J Ultrasound Med, 2020, 39(8): 1477-1490. DOI: 10.1002/jum.15246. "
+        ],
+        "bbox": [
+            517,
+            44,
+            982,
+            213
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(收稿日期:2022-08-02) ",
+        "bbox": [
+            793,
+            216,
+            948,
+            229
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc43afebe01b43e34a5f0725c6e98bd60b6f6bf5ff71e5a07d12908cbc7397d0.jpg",
+        "table_caption": [
+            "附件 1 参考文献循证医学等级"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>文献序号</td><td>作者</td><td>发表年份</td><td>发表期刊</td><td>研究类型</td><td>病例数</td><td>随访时间</td><td>主要研究结果</td><td>LoE级别</td></tr><tr><td>6</td><td>Barra F, Leone Roberti Maggiore U, Evangelisti G, et al.</td><td>2021</td><td>Acta Obstet Gynecol Scand</td><td>前瞻性研究</td><td>281</td><td></td><td>研究表明直肠水造影经阴道超声(RWC-TVS)和超声阴道造影(SVG)在诊断 DIE方面具有相似准确性,且RWC-TVS在评估直肠乙状结肠 DIE的特征方面表现更好</td><td>2++</td></tr><tr><td>9</td><td>Ichikawa M, Akira S, Kaseki H, et al.</td><td>2020</td><td>J Obstet Gynaecol Res</td><td></td><td>131</td><td></td><td>粘连评分系统可以准确预测盆腔粘连状况,可能是术后粘连和不孕症的一个潜在评价指标</td><td>2++</td></tr><tr><td>10</td><td>Guerriero S, Condous G, van den Bosch T, et al.</td><td>2016</td><td>Ultrasound Obstet Gynecol</td><td>指南</td><td></td><td></td><td>DIE超声诊断的标准化描述语,DIE常发生的部位,以及不同部位 DIE的超声特点、诊断要点与鉴别等,对超声临床及科研均有较大帮助</td><td>4</td></tr><tr><td>8</td><td>Hudelist G, Fritzer N, Staettner S, et al.</td><td>2013</td><td>Ultrasound Obstet Gynecol</td><td>多中心前瞻性研究</td><td>117</td><td>2年</td><td>研究表明超声上子宫滑动征阴性反映子宫直肠粘连,是预测直肠是否存在 DIE的一种简单实用的方法</td><td>3</td></tr><tr><td>13</td><td>Andreotti RF, Timmerman D, Strachowski LM, et al.</td><td>2020</td><td>Radiology</td><td>指南</td><td></td><td></td><td>应用O-RADS对卵巢及附件包块进行风险分层和管理指导,减少或消除超声报告中歧义,提高卵巢和附件肿瘤恶性风险评估准确性,为各类风险提供相应管理建议</td><td>4</td></tr><tr><td>18</td><td>Carfagna P, De Cicco Nardone C, De Cicco Nardone A, et al.</td><td>2018</td><td>Ultrasound Obstet Gynecol</td><td>前瞻性研究</td><td>200</td><td></td><td>研究证实 DIE患者较易导致输尿管受累,TVS检查是检测子宫内膜异位症侵犯输尿管的准确、无创诊断工具</td><td>2++</td></tr><tr><td>20</td><td>Ros C, de Guirior C, Mension E, et al.</td><td>2021</td><td>Ultrasound Obstet Gynecol</td><td>前瞻性研究</td><td>172</td><td></td><td>研究表明术前评估疑似子宫内膜异位症患者时,TVS在子宫骶韧带、子宫环和阴道后穹窿的 DIE评估中准确性很高</td><td>2++</td></tr><tr><td>21</td><td>Guerriero S, Ajossa S, Minguez JA, et al.</td><td>2015</td><td>Ultrasound Obstet Gynecol</td><td>系统回顾和荟萃分析</td><td>1583</td><td></td><td>评估TVS对子宫骶韧带、阴道直肠隔、阴道以及膀胱的 DIE方面总的诊断性能</td><td>1++</td></tr><tr><td>22</td><td>Gerges B, Li W, Leonardi M, et al.</td><td>2021</td><td>Ultrasound Obstet Gynecol</td><td>系统回顾和荟萃分析</td><td>3374</td><td></td><td>TVS检测直肠/直肠乙状结肠的敏感度似乎略高于MRI。二者特异性都很好,但TVS更简单、更快、更易获得,作者认为TVS应该成为疑似 DIE患者的首选影像诊断</td><td>1++</td></tr><tr><td>24</td><td>Guerriero S, Ajossa S, Orozco R, et al.</td><td>2016</td><td>Ultrasound Obstet Gynecol</td><td>系统回顾和荟萃分析</td><td>2639</td><td></td><td>TVS对直肠乙状结肠 DIE的整体诊断性能良好,然而还需要进一步研究以提高设计质量</td><td>1++</td></tr></table>",
+        "bbox": [
+            13,
+            309,
+            982,
+            736
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "• 844 • ",
+        "bbox": [
+            30,
+            10,
+            88,
+            21
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "中华超声影像学杂志 2022 年 10 月第 31 卷第 10 期 Chin J Ultrasonogr, October 2022, Vol 31, No. 10",
+        "bbox": [
+            310,
+            10,
+            980,
+            23
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "[Non-Text] ",
+        "bbox": [
+            70,
+            918,
+            113,
+            949
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "中華醫學會杂志社",
+        "bbox": [
+            120,
+            919,
+            272,
+            938
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "Chinese Medical Association Publishing House ",
+        "bbox": [
+            122,
+            940,
+            270,
+            948
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "版权所有 违者必究",
+        "bbox": [
+            281,
+            921,
+            448,
+            948
+        ],
+        "page_idx": 7
+    }
+]

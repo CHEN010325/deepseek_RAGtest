@@ -1,0 +1,75 @@
+{
+  "dataset_name": "1000_rag_eval",
+  "job_id": "2e4da2a27838",
+  "created_at": "2026-05-27 11:22:32",
+  "original_files": [
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\original\\中医内科学.pdf"
+  ],
+  "mineru_markdown_files": [
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\中医内科学.mineru.md"
+  ],
+  "mineru_metadata_files": [
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\中医内科学.mineru.md.meta.json"
+  ],
+  "mineru_semantic_json_files": [
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\中医内科学.mineru.md.mineru.json"
+  ],
+  "deepseekmine_chunk_files": [
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\中医内科学.mineru.md.deepseekmine_chunks.json"
+  ],
+  "raw_mineru_json_files": [
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\ac44dd0a-e153-4a05-a82d-5d60c28de9c1_content_list.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\ac44dd0a-e153-4a05-a82d-5d60c28de9c1_content_list_v2.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\ac44dd0a-e153-4a05-a82d-5d60c28de9c1_model.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\b71a709b-f604-4185-9aca-f1682e89a631_content_list.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\b71a709b-f604-4185-9aca-f1682e89a631_content_list_v2.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\b71a709b-f604-4185-9aca-f1682e89a631_model.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\f594a06d-8eea-4b19-bbe6-ffcbd0392fb5_content_list.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\f594a06d-8eea-4b19-bbe6-ffcbd0392fb5_content_list_v2.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\f594a06d-8eea-4b19-bbe6-ffcbd0392fb5_model.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\layout.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\layout_1.json",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_json\\layout_2.json"
+  ],
+  "raw_mineru_zip_files": [
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_zips\\中医内科学_part1_1-200.zip",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_zips\\中医内科学_part2_201-400.zip",
+    "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\raw_zips\\中医内科学_part3_401-557.zip"
+  ],
+  "mineru_cache": {
+    "root": "E:\\RAG\\data\\mineru_cache",
+    "file_sha256": [
+      "47f04e11b3618226dc0326f19cf71a11e9c4d861258ad1d26d1050d536152949"
+    ]
+  },
+  "dataset_path": "E:\\RAG\\data\\1000_rag_eval.json",
+  "corpus_path": "E:\\RAG\\data\\1000_rag_eval.corpus.md",
+  "mineru_report": [
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\2e4da2a27838\\uploads\\中医内科学.pdf",
+      "success": true,
+      "cache_hit": true,
+      "file_sha256": "47f04e11b3618226dc0326f19cf71a11e9c4d861258ad1d26d1050d536152949",
+      "markdown_path": "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\中医内科学.mineru.md",
+      "metadata_path": "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\中医内科学.mineru.md.meta.json",
+      "combined_json_path": "E:\\RAG\\data\\assets\\1000_rag_eval\\mineru\\中医内科学.mineru.md.mineru.json"
+    }
+  ],
+  "config": {
+    "dataset_name": "1000_rag_eval",
+    "use_mineru": true,
+    "mineru_model": "vlm",
+    "language": "ch",
+    "is_ocr": true,
+    "enable_table": true,
+    "enable_formula": true,
+    "backend": "mimo",
+    "model": "mimo-v2.5-pro",
+    "base_url": "https://token-plan-cn.xiaomimimo.com/v1",
+    "target_count": 1000,
+    "max_per_source": 1000,
+    "items_per_chunk": 1,
+    "negative_count": 0,
+    "allow_heuristic": false
+  }
+}

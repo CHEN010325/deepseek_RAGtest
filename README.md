@@ -184,7 +184,17 @@ data/assets/
 data/mineru_cache/
 ```
 
-这些目录默认不提交到仓库。
+其中 `data/mineru_cache/` 是本地缓存，默认不提交。当前仓库已随代码发布部分可复现实验数据集及其 `data/assets/` 资产，方便其他机器拉取后直接做测评。
+
+已发布的数据集包括：
+
+- `zh_int`
+- `zh_int_clean`
+- `zh_refine`
+- `100_rag_eval`
+- `1000_rag_eval`
+- `custom_rag_eval`
+- `mineru100_rag_eval`
 
 ## 验证命令
 

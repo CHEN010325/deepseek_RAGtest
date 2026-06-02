@@ -1,0 +1,741 @@
+{
+  "page_spans": [
+    {
+      "page": 1,
+      "start": 65,
+      "end": 2079
+    },
+    {
+      "page": 2,
+      "start": 2079,
+      "end": 4247
+    },
+    {
+      "page": 3,
+      "start": 4247,
+      "end": 6598
+    },
+    {
+      "page": 4,
+      "start": 6598,
+      "end": 8401
+    },
+    {
+      "page": 5,
+      "start": 8401,
+      "end": 10739
+    },
+    {
+      "page": 6,
+      "start": 10739,
+      "end": 12645
+    },
+    {
+      "page": 7,
+      "start": 12645,
+      "end": 18305
+    },
+    {
+      "page": 8,
+      "start": 18305,
+      "end": 22011
+    }
+  ],
+  "semantic_spans": [
+    {
+      "type": "text",
+      "start": 65,
+      "end": 84,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 84,
+      "end": 103,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 103,
+      "end": 166,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 166,
+      "end": 199,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 199,
+      "end": 245,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 245,
+      "end": 314,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 314,
+      "end": 416,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 416,
+      "end": 513,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 513,
+      "end": 560,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 560,
+      "end": 603,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 603,
+      "end": 1002,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1002,
+      "end": 1019,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1019,
+      "end": 1299,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1299,
+      "end": 1330,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1330,
+      "end": 1350,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1350,
+      "end": 1561,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1561,
+      "end": 1629,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1629,
+      "end": 1646,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1646,
+      "end": 1823,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1823,
+      "end": 1834,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1834,
+      "end": 2079,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 2079,
+      "end": 2092,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2092,
+      "end": 2419,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2419,
+      "end": 2432,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2432,
+      "end": 2533,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2533,
+      "end": 2661,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2661,
+      "end": 2763,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2763,
+      "end": 2786,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2786,
+      "end": 2873,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2873,
+      "end": 2972,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2972,
+      "end": 3046,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 3046,
+      "end": 3088,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 3088,
+      "end": 3113,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 3113,
+      "end": 3428,
+      "page": 2
+    },
+    {
+      "type": "image",
+      "start": 3428,
+      "end": 3754,
+      "page": 2
+    },
+    {
+      "type": "image",
+      "start": 3754,
+      "end": 3988,
+      "page": 2,
+      "title": "图 1 卵巢子宫内膜异位囊肿二维灰阶声像图 囊内容物呈 “磨玻璃样” 回声，箭头所指为较厚的囊壁"
+    },
+    {
+      "type": "list",
+      "start": 3988,
+      "end": 4247,
+      "page": 2
+    },
+    {
+      "type": "image",
+      "start": 4247,
+      "end": 4574,
+      "page": 3,
+      "title": "图 3 多发卵巢子宫内膜异位囊肿二维灰阶声像图 卵巢内见两个囊内容物呈 “磨玻璃样” 回声的小囊肿（\\* 所示），囊肿间可见卵泡等正常卵巢组织"
+    },
+    {
+      "type": "image",
+      "start": 4574,
+      "end": 4783,
+      "page": 3,
+      "title": "图 4 卵巢子宫内膜异位囊肿内血凝块二维灰阶声像图 囊肿的“磨玻璃样”回声内可见团块状中高回声（\\*所示），彩色多普勒血流显像（CDFI）未见血流信号。手术证实为血凝块"
+    },
+    {
+      "type": "text",
+      "start": 4783,
+      "end": 4976,
+      "page": 3
+    },
+    {
+      "type": "image",
+      "start": 4976,
+      "end": 5146,
+      "page": 3,
+      "title": "图 5 双侧卵巢子宫内膜异位囊肿 “接吻征” 二维灰阶声像图 子宫后方见两个囊性病灶，彼此粘连在一起，探头推之不能分开，呈 “接吻征” 表现（箭头所示）。手术病理证实为左、右卵巢子宫内膜异位囊肿且彼此粘连在一起（R-OEM：右侧卵巢子宫内膜异位囊肿；L-OEM：左侧卵巢子宫内膜异位囊肿）"
+    },
+    {
+      "type": "text",
+      "start": 5146,
+      "end": 5378,
+      "page": 3
+    },
+    {
+      "type": "image",
+      "start": 5378,
+      "end": 5735,
+      "page": 3
+    },
+    {
+      "type": "image",
+      "start": 5735,
+      "end": 5969,
+      "page": 3,
+      "title": "图 6 妊娠期卵巢子宫内膜异位囊肿蜕膜化二维灰阶声像图 孕 12 周，一侧卵巢见多房囊肿，一个囊腔呈“磨玻璃样”表现，另一个囊腔的囊内壁上见多个形态较规则的乳头状突起（箭头所示）"
+    },
+    {
+      "type": "text",
+      "start": 5969,
+      "end": 6079,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 6079,
+      "end": 6105,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 6105,
+      "end": 6116,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 6116,
+      "end": 6274,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 6274,
+      "end": 6286,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 6286,
+      "end": 6380,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 6380,
+      "end": 6598,
+      "page": 3
+    },
+    {
+      "type": "image",
+      "start": 6598,
+      "end": 6672,
+      "page": 4,
+      "title": "图 8 膀胱 DIE 二维灰阶声像图 经阴道超声膀胱纵切面，可见病灶位于膀胱后壁肌层内，呈低回声，黏膜层连续性完整（箭头所示）（BL：膀胱）"
+    },
+    {
+      "type": "text",
+      "start": 6672,
+      "end": 6686,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 6686,
+      "end": 6927,
+      "page": 4
+    },
+    {
+      "type": "image",
+      "start": 6927,
+      "end": 7068,
+      "page": 4,
+      "title": "图 9 子宫骶韧带 DIE 二维灰阶声像图 子宫骶韧带上可见呈低回声的 DIE 结节（箭头所示），该患者同时有卵巢多发子宫内膜异位囊肿（星号所示处）、子宫腺肌病及肠道 DIE（USL：骶韧带；UT：子宫；LOV：左卵巢）"
+    },
+    {
+      "type": "text",
+      "start": 7068,
+      "end": 7083,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7083,
+      "end": 7208,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7208,
+      "end": 7222,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7222,
+      "end": 7540,
+      "page": 4
+    },
+    {
+      "type": "image",
+      "start": 7540,
+      "end": 7743,
+      "page": 4,
+      "title": "图 10 子宫直肠陷凹 DIE 二维灰阶声像图 病灶位于子宫下段及宫颈后方，呈低回声区，边界不清（箭头所示）（UT：子宫）"
+    },
+    {
+      "type": "image",
+      "start": 7743,
+      "end": 7853,
+      "page": 4,
+      "title": "图 11 子宫直肠陷凹及阴道直肠隔 DIE 累及直肠二维灰阶声像图 宫颈后方及下方可见呈长条形低回声的 DIE 病灶（箭头所示），向后累及直肠，直肠前壁局部增厚，呈低回声（空心箭头所示）（CX：宫颈；R：直肠腔）"
+    },
+    {
+      "type": "text",
+      "start": 7853,
+      "end": 7864,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7864,
+      "end": 8139,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 8139,
+      "end": 8401,
+      "page": 4
+    },
+    {
+      "type": "image",
+      "start": 8401,
+      "end": 8544,
+      "page": 5
+    },
+    {
+      "type": "image",
+      "start": 8544,
+      "end": 8941,
+      "page": 5,
+      "title": "图 12 肠道 DIE 的 “印第安人头饰” 征二维灰阶声像图 直肠 DIE 病灶呈多条羽毛状低回声（箭头所指），似 “印第安人头饰” （UT：子宫）"
+    },
+    {
+      "type": "image",
+      "start": 8941,
+      "end": 9261,
+      "page": 5
+    },
+    {
+      "type": "image",
+      "start": 9261,
+      "end": 9385,
+      "page": 5,
+      "title": "图 14 肠道 DIE 横切面二维灰阶声像图 横切面上直肠 DIE 病灶呈楔形低回声（R：直肠）"
+    },
+    {
+      "type": "text",
+      "start": 9385,
+      "end": 9444,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 9444,
+      "end": 9468,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 9468,
+      "end": 9548,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 9548,
+      "end": 9636,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 9636,
+      "end": 9832,
+      "page": 5
+    },
+    {
+      "type": "image",
+      "start": 9832,
+      "end": 10148,
+      "page": 5,
+      "title": "图 16 会阴内异症二维灰阶声像图 病灶位于会阴侧切口瘢痕部位，呈不规则结节状低回声区"
+    },
+    {
+      "type": "image",
+      "start": 10148,
+      "end": 10517,
+      "page": 5,
+      "title": "图 17 腹壁内异症二维灰阶声像图 病灶位于下腹部剖宫产切口瘢痕部位的腹壁肌层内，呈结节状低回声区，内部回声不均匀，部分边界不清"
+    },
+    {
+      "type": "image",
+      "start": 10517,
+      "end": 10739,
+      "page": 5,
+      "title": "图 18 腹壁内异症 CDFI 声像图 病灶（箭头所指）内可见散在点状或短条状血流信号，紧邻病灶后方可见一正常腹壁血管的长条状血流信号（空心箭头所示）"
+    },
+    {
+      "type": "text",
+      "start": 10739,
+      "end": 10797,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10797,
+      "end": 10817,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10817,
+      "end": 10885,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10885,
+      "end": 10939,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10939,
+      "end": 11065,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11065,
+      "end": 11216,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11216,
+      "end": 11331,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11331,
+      "end": 11382,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11382,
+      "end": 11551,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11551,
+      "end": 11649,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11649,
+      "end": 11666,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11666,
+      "end": 11697,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11697,
+      "end": 12039,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12039,
+      "end": 12199,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12199,
+      "end": 12434,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12434,
+      "end": 12464,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12464,
+      "end": 12486,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12486,
+      "end": 12513,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12513,
+      "end": 12550,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12550,
+      "end": 12566,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12566,
+      "end": 12583,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12583,
+      "end": 12597,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12597,
+      "end": 12613,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12613,
+      "end": 12625,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12625,
+      "end": 12645,
+      "page": 6
+    },
+    {
+      "type": "ref_text",
+      "start": 12645,
+      "end": 12665,
+      "page": 7
+    },
+    {
+      "type": "ref_text",
+      "start": 12665,
+      "end": 12681,
+      "page": 7
+    },
+    {
+      "type": "ref_text",
+      "start": 12681,
+      "end": 12694,
+      "page": 7
+    },
+    {
+      "type": "ref_text",
+      "start": 12694,
+      "end": 12713,
+      "page": 7
+    },
+    {
+      "type": "ref_text",
+      "start": 12713,
+      "end": 12733,
+      "page": 7
+    },
+    {
+      "type": "ref_text",
+      "start": 12733,
+      "end": 12769,
+      "page": 7
+    },
+    {
+      "type": "list",
+      "start": 12769,
+      "end": 15301,
+      "page": 7
+    },
+    {
+      "type": "list",
+      "start": 15301,
+      "end": 18305,
+      "page": 7
+    },
+    {
+      "type": "list",
+      "start": 18305,
+      "end": 19005,
+      "page": 8
+    },
+    {
+      "type": "list",
+      "start": 19005,
+      "end": 19536,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 19536,
+      "end": 19555,
+      "page": 8
+    },
+    {
+      "type": "table",
+      "start": 19555,
+      "end": 22011,
+      "page": 8,
+      "title": "附件 1 参考文献循证医学等级"
+    }
+  ],
+  "source": "mineru",
+  "format": "rageval_mineru_metadata_v1"
+}

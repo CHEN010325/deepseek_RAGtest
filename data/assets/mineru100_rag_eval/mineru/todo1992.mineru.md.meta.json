@@ -1,0 +1,219 @@
+{
+  "page_spans": [
+    {
+      "page": 1,
+      "start": 56,
+      "end": 5645
+    },
+    {
+      "page": 2,
+      "start": 5645,
+      "end": 11297
+    },
+    {
+      "page": 3,
+      "start": 11297,
+      "end": 16407
+    },
+    {
+      "page": 4,
+      "start": 16407,
+      "end": 20401
+    }
+  ],
+  "semantic_spans": [
+    {
+      "type": "text",
+      "start": 56,
+      "end": 123,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 123,
+      "end": 325,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 325,
+      "end": 817,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 817,
+      "end": 2402,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 2402,
+      "end": 2621,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 2621,
+      "end": 3504,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 3504,
+      "end": 3518,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 3518,
+      "end": 4766,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 4766,
+      "end": 5645,
+      "page": 1
+    },
+    {
+      "type": "table",
+      "start": 5645,
+      "end": 6919,
+      "page": 2,
+      "title": "TABLE 1. Plasma amino acids in patient 1 before and after OLT"
+    },
+    {
+      "type": "table",
+      "start": 6919,
+      "end": 7815,
+      "page": 2,
+      "title": "TABLE 2. Plasma amino acids in patient 2 before and after OLT"
+    },
+    {
+      "type": "table",
+      "start": 7815,
+      "end": 8122,
+      "page": 2,
+      "title": "TABLE 3. Urea cycle enzymes in patient 1"
+    },
+    {
+      "type": "table",
+      "start": 8122,
+      "end": 8524,
+      "page": 2,
+      "title": "TABLE 4. Urea cycle enzymes in patient 2"
+    },
+    {
+      "type": "text",
+      "start": 8524,
+      "end": 9619,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 9619,
+      "end": 10395,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 10395,
+      "end": 10416,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 10416,
+      "end": 10928,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 10928,
+      "end": 11297,
+      "page": 2
+    },
+    {
+      "type": "table",
+      "start": 11297,
+      "end": 13163,
+      "page": 3,
+      "title": "TABLE 5. Urea cycle enzyme deficiencies treated more than 1½ yr ago with OLT"
+    },
+    {
+      "type": "text",
+      "start": 13163,
+      "end": 13402,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 13402,
+      "end": 13682,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 13682,
+      "end": 14076,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 14076,
+      "end": 14445,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 14445,
+      "end": 14716,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 14716,
+      "end": 14728,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 14728,
+      "end": 15525,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 15525,
+      "end": 16407,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 16407,
+      "end": 17404,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 17404,
+      "end": 17416,
+      "page": 4
+    },
+    {
+      "type": "list",
+      "start": 17416,
+      "end": 18282,
+      "page": 4
+    },
+    {
+      "type": "list",
+      "start": 18282,
+      "end": 20401,
+      "page": 4
+    }
+  ],
+  "source": "mineru",
+  "format": "rageval_mineru_metadata_v1"
+}

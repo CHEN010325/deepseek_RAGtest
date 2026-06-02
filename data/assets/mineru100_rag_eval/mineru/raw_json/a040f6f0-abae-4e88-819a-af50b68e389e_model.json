@@ -1,0 +1,921 @@
+[
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.155,
+                0.076,
+                0.838,
+                0.131
+            ],
+            "angle": 0,
+            "content": "Orthotopic Liver Transplantation for Urea Cycle Enzyme Deficiency"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.152,
+                0.9,
+                0.184
+            ],
+            "angle": 0,
+            "content": "SATORU TODO,\\(^{1,2}\\) THOMAS E. STARZL,\\(^{1,2}\\) ANDREAS TZAKIS,\\(^{1,2}\\) KEITH J. BENKOV,\\(^{3}\\) FRANTISEK KALOUSEK,\\(^{4}\\) TAKEYORI SAHEKI,\\(^{5}\\) KYUICHI TANIKAWA,\\(^{6}\\) AND WAYNE A. FENTON\\(^{4}\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.187,
+                0.929,
+                0.242
+            ],
+            "angle": 0,
+            "content": "\\( ^{1} \\) Department of Surgery, University Health Center of Pittsburgh, University of Pittsburgh, and  \\( ^{2} \\) the Veterans Administration Medical Center, Pittsburgh, Pennsylvania;  \\( ^{3} \\) Department of Pediatrics, Mount Sinai Medical Center, New York, New York 10029-6574;  \\( ^{4} \\) Department of Human Genetics, Yale University, New Haven, Connecticut;  \\( ^{5} \\) Department of Biochemistry, Kagoshima University, Kagoshima, Japan; and  \\( ^{6} \\) Department of Medicine, Kurume University, Kurume, Japan.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.065,
+                0.308,
+                0.494,
+                0.698
+            ],
+            "angle": 0,
+            "content": "Hyperammonemia, abnormalities in plasma amino acids and abnormalities of standard liver functions were corrected by orthotopic liver transplantation in a 14-day-old boy with carbamyl phosphate synthetase-I deficiency and in a 35-yr-old man with argininosuccinic acid synthetase deficiency. The first patient had high plasma glutamine levels and no measureable citrulline, whereas citrulline values were markedly increased in Patient 2. Enzyme analysis of the original livers showed undetectable activity of carbamyl phosphate synthetase-I in Patient 1 and arginosuccinic acid synthetase in Patient 2. Both patients were comatose before surgery. Intellectual recovery of patient 1 has been slightly retarded because of a brain abscess caused by Aspergillus infection after surgery. Both patients are well at 34 and 40 mo, respectively, after surgery. Our experience has shown that orthotopic liver transplantation corrects the life-threatening metabolic abnormalities caused by deficiencies in the urea cycle enzymes carbamyl phosphate synthetase-I and arginosuccinic acid synthetase. Seven other patients—six with ornithine transcarbamylase deficiency and another with carbamyl phosphate synthetase-I deficiency—are known to have been treated elsewhere with liver transplantation \\(1 \\frac{1}{2}\\) yr or longer ago. Four of these seven recipients also are well, with follow-ups of \\(1 \\frac{1}{2}\\) to 5 yr. Thus liver transplantation corrects the metabolic abnormalities of three of the six urea cycle enzyme deficiencies, and presumably would correct all. (HEPATOLOGY 1992;15:419-422.)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.066,
+                0.712,
+                0.494,
+                0.772
+            ],
+            "angle": 0,
+            "content": "It was proposed in 1975 by Dr. Leon Rosenberg of Yale University that liver transplantation would allow somatic correction of diseases caused by deficiency of any of the six urea cycle enzymes (Personal communication,",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.503,
+                0.306,
+                0.934,
+                0.55
+            ],
+            "angle": 0,
+            "content": "1975). The liver enzymes responsible for biosynthesis of urea from its principal precursors (ammonium and glutamine) are N-acetylglutamate synthetase, carbamyl phosphate synthetase-I (CPS-I), ornithine transcarbamylase (OTC), argininosuccinic acid synthetase (ASS), argininosuccinase and arginase (1). N-acetylglutamate synthetase deficiency has been reported in one man (2). OTC deficiency is an X chromosome-linked disorder, and the other 4 deficiencies are autosomal recessive traits. High plasma ammonium and glutamine levels are thought to cause astrocyte swelling, brain edema and secondary neuron injury (3), with variable neurological or behavioral consequences that may be acute or chronic. We report here the amelioration of such complications after liver transplantation in a 14-day-old white boy with CPS-I deficiency and a 35-yr-old Japanese man with ASS deficiency.",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.652,
+                0.558,
+                0.79,
+                0.571
+            ],
+            "angle": 0,
+            "content": "CASE REPORTS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.506,
+                0.577,
+                0.937,
+                0.861
+            ],
+            "angle": 0,
+            "content": "Case 1. An apparently normal, full-term male child of first-cousin parents became bradycardic and apneic shortly after birth on May 18, 1988, requiring endotracheal intubation. By postpartum day 2, he was unresponsive to pain stimuli, although results of a computed tomographic scan of the head were normal. Serum ammonia level on day 6 was 387  \\( \\mu \\) mol/L, total bilirubin was 202  \\( \\mu \\) mol/L (direct bilirubin = 27.4  \\( \\mu \\) mol/L) and serum transaminases were normal. Peritoneal dialysis on day 7 reduced serum ammonia level from 514 to 160  \\( \\mu \\) mol/L. With the diagnosis of CPS-I urea cycle enzyme deficiency, the patient was treated with an intravenous infusion of arginine, sodium benzoate and sodium phenylacetate supplemented with Intralipid and 5% dextrose (4), and tube feeding with polyxose and protein-free Mead Johnson formula 80056 (Mead Johnson, Evansville, IN). After transfer to the University of Pittsburgh, orthotopic liver transplantation (OLT) was performed with a newborn cadaver liver on June 2, 1988, at 14 days of age. Biliary drainage was performed by choledochojejunostomy (Roux-en-Y anastomosis). The surgery and subsequent immunosuppression with cyclosporine and prednisone were performed with standard techniques (5).",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.861,
+                0.937,
+                0.901
+            ],
+            "angle": 0,
+            "content": "Severe rejection beginning in postoperative wk 3 necessitated augmented steroid dosage and the addition of OKT3. An Aspergillus brain abscess was treated successfully with anti-",
+            "merge_prev": false
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.087,
+                0.808,
+                0.374,
+                0.82
+            ],
+            "angle": 0,
+            "content": "Received August 5, 1991; accepted October 31, 1991."
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.069,
+                0.821,
+                0.496,
+                0.854
+            ],
+            "angle": 0,
+            "content": "This work was aided by research grants from the Department of Veterans Affairs and by project grant No. DK 29961 from the National Institutes of Health."
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.07,
+                0.855,
+                0.496,
+                0.889
+            ],
+            "angle": 0,
+            "content": "Address reprint requests to: Thomas E. Starzl, M.D., Ph.D., Department of Surgery, 3601 Fifth Avenue, Falk Clinic 4 West, Pittsburgh, Pennsylvania 15213."
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.087,
+                0.89,
+                0.151,
+                0.9
+            ],
+            "angle": 0,
+            "content": "31/1/34811"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.489,
+                0.908,
+                0.518,
+                0.92
+            ],
+            "angle": 0,
+            "content": "419"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.064,
+                0.04,
+                0.094,
+                0.053
+            ],
+            "angle": 0,
+            "content": "420"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.449,
+                0.04,
+                0.544,
+                0.053
+            ],
+            "angle": 0,
+            "content": "TODO ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.851,
+                0.041,
+                0.931,
+                0.053
+            ],
+            "angle": 0,
+            "content": "HEPATOLOGY"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.089,
+                0.07,
+                0.461,
+                0.096
+            ],
+            "angle": 0,
+            "content": "TABLE 1. Plasma amino acids in patient 1 before and after OLT"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.064,
+                0.097,
+                0.489,
+                0.3
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">Amino acids</td><td colspan=\"2\">Before OLT<eq>^{a}</eq></td><td colspan=\"2\">After OLT<eq>^{b}</eq></td></tr><tr><td>Normal range</td><td>As of 5/27/88</td><td>Normal range</td><td>As of 4/12/91</td></tr><tr><td>Aspartic acid</td><td>1-17<eq>^{a}</eq></td><td>16</td><td>0-4</td><td>&lt;10</td></tr><tr><td>Glutamic acid</td><td>1-85</td><td>72</td><td>0-150</td><td>30</td></tr><tr><td>Glutamine</td><td>337-673</td><td>909</td><td>320-870</td><td>650</td></tr><tr><td>Proline</td><td>51-271</td><td>177</td><td>30-400</td><td>150</td></tr><tr><td>Glycine</td><td>87-323</td><td>251</td><td>90-430</td><td>250</td></tr><tr><td>Citrulline</td><td>10-34</td><td>ND</td><td>0-70</td><td>10</td></tr><tr><td>Alpha-amino-N-butyric acid</td><td>4-32</td><td>34</td><td>0-40</td><td>40</td></tr><tr><td>Valine</td><td>78-326</td><td>86</td><td>70-350</td><td>190</td></tr><tr><td>Ornithine</td><td>22-94</td><td>59</td><td>0-120</td><td>50</td></tr><tr><td>Arginine</td><td>15-115</td><td>24</td><td>10-130</td><td>30</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.081,
+                0.303,
+                0.214,
+                0.315
+            ],
+            "angle": 0,
+            "content": "ND = not detectable."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.081,
+                0.316,
+                0.387,
+                0.328
+            ],
+            "angle": 0,
+            "content": "\\( ^{a} \\) Measured by an automated amino acid analyzer."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.081,
+                0.329,
+                0.325,
+                0.342
+            ],
+            "angle": 0,
+            "content": "\\( ^{b} \\) Measured by column chromatography."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.081,
+                0.343,
+                0.268,
+                0.355
+            ],
+            "angle": 0,
+            "content": "\\( ^{c} \\) All data expressed as  \\( \\mu \\) mol/L."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.081,
+                0.303,
+                0.387,
+                0.355
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.089,
+                0.387,
+                0.462,
+                0.413
+            ],
+            "angle": 0,
+            "content": "TABLE 2. Plasma amino acids in patient 2 before and after OLT"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.065,
+                0.415,
+                0.491,
+                0.588
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Amino acids</td><td>Normal range</td><td>Before OLT (5/31/88)</td><td>After OLT (8/25/90)</td></tr><tr><td>Aspartic acid</td><td><eq>3.9-6.7^a</eq></td><td>&lt;3</td><td>4.5</td></tr><tr><td>Glutamic acid</td><td>14-59</td><td>57</td><td>51</td></tr><tr><td>Glutamine</td><td>560-890</td><td>641</td><td>612</td></tr><tr><td>Proline</td><td>110-310</td><td>98</td><td>190</td></tr><tr><td>Glycine</td><td>180-370</td><td>116</td><td>199</td></tr><tr><td>Citrulline</td><td>22-52</td><td>445</td><td>47</td></tr><tr><td>Alanine</td><td>280-650</td><td>229</td><td>424</td></tr><tr><td>Valine</td><td>180-370</td><td>165</td><td>204</td></tr><tr><td>Ornithine</td><td>40-100</td><td>65</td><td>124</td></tr><tr><td>Arginine</td><td>70-160</td><td>207</td><td>98</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.08,
+                0.589,
+                0.271,
+                0.603
+            ],
+            "angle": 0,
+            "content": "\\( ^{a} \\) All data expressed as  \\( \\mu \\) mol/L."
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.131,
+                0.635,
+                0.421,
+                0.649
+            ],
+            "angle": 0,
+            "content": "TABLE 3. Urea cycle enzymes in patient 1"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.065,
+                0.651,
+                0.491,
+                0.719
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Enzyme</td><td>Patient 1</td><td>Normal range (sample control)</td></tr><tr><td>CPS-I</td><td><eq>&lt; 0.005^{a}</eq></td><td>0.26-1.0</td></tr><tr><td>OTC</td><td>28.7</td><td>19-38</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.08,
+                0.721,
+                0.348,
+                0.735
+            ],
+            "angle": 0,
+            "content": "\\( ^{a} \\) All data expressed as  \\( \\mu \\) mol/hr/mg protein."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.767,
+                0.493,
+                0.924
+            ],
+            "angle": 0,
+            "content": "biotics, open drainage and, ultimately, ventriculoperitoneal shunt. Bacteremia and systemic cytomegalovirus infection further complicated the course, necessitating hospitalization for 7½ mo (6). Subsequently, the child lived at home without special domiciliary care. Growth and development have been uninterrupted during the 40 mo of follow-up, with a weight gain from 2.5 to 20 kg on an unrestricted diet. Normal physical and intellectual milestones have been delayed, presumably because of the cortical injury caused by the brain abscess, meningitis and/or hydrocephalic complications. Liver function is normal, and most the recent blood ammonia level after 37 mo was 34 μmol/L (normal < 39 μmol/L).",
+            "merge_prev": false
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.572,
+                0.07,
+                0.862,
+                0.084
+            ],
+            "angle": 0,
+            "content": "TABLE 4. Urea cycle enzymes in patient 2"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.504,
+                0.085,
+                0.93,
+                0.179
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Enzyme</td><td>Patient</td><td>Normal liver (sample control)</td></tr><tr><td>AS</td><td>293a</td><td>453</td></tr><tr><td>ASS</td><td>2</td><td>300</td></tr><tr><td>CPS-I</td><td>37</td><td>58</td></tr><tr><td>OTC</td><td>4,337</td><td>7,359</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.52,
+                0.182,
+                0.676,
+                0.194
+            ],
+            "angle": 0,
+            "content": "AS = argininosuccinase."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.52,
+                0.195,
+                0.789,
+                0.208
+            ],
+            "angle": 0,
+            "content": "\\( ^{a} \\) All data expressed as  \\( \\mu \\) mol/hr/mg protein."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.502,
+                0.239,
+                0.933,
+                0.485
+            ],
+            "angle": 0,
+            "content": "Case 2. A 35-yr-old Japanese man was the second son of healthy first-cousin parents. He had a normal brother and sister and was the father of a healthy daughter. He was ostensibly normal until three episodes of temporary altered consciousness and behavioral aberrations occurred in January, April and May 1987. After initial psychiatric hospitalization, he was transferred to Kurume University, where his serum ammonium and serum citrulline levels were 264 and 445  \\( \\mu \\) mol/L, respectively (normal, <39 and <52  \\( \\mu \\) mol/L). On diagnosis of ASS deficiency, he was prescribed sodium benzoate, arginine and branched amino acid infusion, with restriction of oral protein intake. During the following 18 mo, he had four major episodes of serum ammonium elevation, with transient bouts of stage IV coma, which were successfully treated by hemodialysis. Because of deterioration and stage III and IV coma necessitating ventilator support, he was flown in November 1988 to the University of Pittsburgh, where OLT was performed on December 23, 1987, with biliary drainage by duct-to-duct anastomosis.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.503,
+                0.486,
+                0.934,
+                0.656
+            ],
+            "angle": 0,
+            "content": "Preoperative total serum bilirubin of 425  \\( \\mu \\) mol/L fell to normal within a few days. A computed tomographic scan of the head in November 1988 had revealed cortical atrophy. Postoperatively, complete recovery of consciousness and removal from ventilator support required several weeks, but convalescence was otherwise uncomplicated under cyclosporine-steroid therapy (5). The patient was discharged from the hospital after 44 days and has been at home since then. Recovery of neuromotor and intellectual capabilities required many months, but eventually the patient returned to his previous position as vice president of a construction company. Liver function is normal 34 mo postoperatively. Blood ammonia levels have been 7 to 21  \\( \\mu \\) mol/L (normal < 39  \\( \\mu \\) mol/L).",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.61,
+                0.664,
+                0.83,
+                0.678
+            ],
+            "angle": 0,
+            "content": "BIOCHEMICAL METHODS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.503,
+                0.682,
+                0.935,
+                0.825
+            ],
+            "angle": 0,
+            "content": "Amino Acids. Plasma amino acids in patient 1 were measured 9 days after birth (5 days before transplantation) by an automated amino acid analyzer. At 34 mo after OLT, amino acids were determined by column chromatography (7). Amino acid separation was performed by a method modified from Hamilton (8). In Patient 2, the plasma amino acids were measured in the absence of treatment, 5 to 7 mo before transplantation, with a automated amino acid analyzer. The examinations were repeated 3, 4, and 20 mo after OLT.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.503,
+                0.825,
+                0.936,
+                0.926
+            ],
+            "angle": 0,
+            "content": "Liver Enzymes. The removed native livers were immediately cut into small pieces, frozen with liquid nitrogen and stored at  \\( -80^{\\circ} \\) C until the analyses of urea cycle enzymes. CPS-I and OTC were measured in Patient 1 in the Department of Human Genetics of the Yale University School of Medicine. Determinations were with a small-scale adaptation of the method of",
+            "merge_prev": false
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.061,
+                0.04,
+                0.19,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Vol. 15, No. 3, 1992"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.257,
+                0.04,
+                0.738,
+                0.054
+            ],
+            "angle": 0,
+            "content": "LIVER TRANSPLANTATION FOR UREA CYCLE ENZYME DEFICIENCY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.902,
+                0.041,
+                0.928,
+                0.053
+            ],
+            "angle": 0,
+            "content": "421"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.215,
+                0.071,
+                0.779,
+                0.086
+            ],
+            "angle": 0,
+            "content": "TABLE 5. Urea cycle enzyme deficiencies treated more than 1½ yr ago with OLT"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.061,
+                0.087,
+                0.934,
+                0.38
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">Patient</td><td rowspan=\"2\">Center</td><td rowspan=\"2\">Date of OLT</td><td rowspan=\"2\">Age at OLT</td><td rowspan=\"2\">Enzyme deficiency</td><td colspan=\"3\">OUTCOME</td></tr><tr><td>Alive/dead</td><td>Mental state</td><td>Reference</td></tr><tr><td>1</td><td>Yale University</td><td>8/86</td><td>21 mo</td><td>OTC</td><td>Alive</td><td>Normal and in school</td><td>1; personal communication of <eq>8/91^a</eq></td></tr><tr><td>2</td><td>Lille, France</td><td>2/88</td><td>5 yr</td><td>OTC</td><td>Alive</td><td>Normal</td><td>13; personal communication of 8/91</td></tr><tr><td>3</td><td>University of Pittsburgh</td><td>6/88</td><td>14 days</td><td>CPS-I</td><td>Alive</td><td>Slightly retarded</td><td>This report</td></tr><tr><td>4</td><td>Boston Children&#x27;s Hospital</td><td>8/88</td><td>18 mo</td><td>OTC</td><td>Alive</td><td>Normal</td><td>Personal communication of 8/91</td></tr><tr><td>5</td><td>University of Minnesota</td><td>10/88</td><td>20 mo</td><td>CPS-I</td><td>Died of pneumonia after 18 mo</td><td>-</td><td>14</td></tr><tr><td>6</td><td>University of Pittsburgh</td><td>12/88</td><td>35 yr</td><td>ASS</td><td>Alive</td><td>Normal</td><td>This report</td></tr><tr><td>7</td><td>University of Chicago</td><td><eq>10/89^b</eq></td><td>20 mo</td><td>OTC</td><td>Died 5/26/90</td><td>-</td><td>12</td></tr><tr><td>8</td><td>University of Chicago</td><td>11/89</td><td>21 mo</td><td>OTC</td><td>Died 11/17/89</td><td>-</td><td>Personal communication of 4/91</td></tr><tr><td>9</td><td>Riley Children&#x27;s Hospital, Indianapolis, IN</td><td>2/90</td><td>28 mo</td><td>OTC</td><td>Alive</td><td>Retarded</td><td>Personal communication of 8/91</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.08,
+                0.382,
+                0.447,
+                0.395
+            ],
+            "angle": 0,
+            "content": "\\( ^{a} \\) Dr. Wayne Flye of Washington University, St. Louis, MO."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.082,
+                0.395,
+                0.186,
+                0.408
+            ],
+            "angle": 0,
+            "content": "\\( ^{b} \\) Liver fragment."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.08,
+                0.382,
+                0.447,
+                0.408
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.441,
+                0.492,
+                0.514
+            ],
+            "angle": 0,
+            "content": "Nuzum and Snodgrass (9). The liver tissues from Patient 2 were analyzed for CPS-I, OTC, ASS and AS activity in the Department of Biochemistry of Kagoshima University, Kagoshima, Japan, using a previously described method (10).",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.235,
+                0.523,
+                0.32,
+                0.537
+            ],
+            "angle": 0,
+            "content": "RESULTS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.541,
+                0.491,
+                0.627
+            ],
+            "angle": 0,
+            "content": "Plasma Amino Acids. The pretransplant plasma in Patient 1 had elevated levels of glutamine. Citrulline was undetectable, and the other measured amino acids were relatively normal (Table 1). Plasma amino acids 34 mo after surgery were normal. Citrulline levels became detectable.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.627,
+                0.492,
+                0.741
+            ],
+            "angle": 0,
+            "content": "The plasma amino acids in Patient 2 before and after transplantation are summarized in Table 2. The extremely high preoperative levels of citrulline and the modest elevations of arginine were corrected at all measured postoperative times. However, ornithine level (normal = 40 to 100  \\( \\mu \\) mol/L) was slightly elevated at 3 mo (153  \\( \\mu \\) mol/L) and at 20 mo (124  \\( \\mu \\) mol/L) postoperatively.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.741,
+                0.493,
+                0.84
+            ],
+            "angle": 0,
+            "content": "Tissue Studies. On light microscopy, the native liver of patient 1 had only minor, nonspecific abnormalities. Similarly, electron microscopic studies were normal, except for nonspecific elongation of the mitochondria. CPS-I activity was undetectable in the homogenate of this liver. OTC activity was normal when compared with that of a control liver sample (Table 3).",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.84,
+                0.492,
+                0.926
+            ],
+            "angle": 0,
+            "content": "The native liver of patient 2 was enlarged, with cholestasis and massive steatosis and hemosiderosis. Periportal fibrosis, but no cirrhosis, was present. The liver homogenate was devoid of ASS activity, but exhibited significant CPS-1, OTC, and AS activity (Table 4).",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.663,
+                0.437,
+                0.776,
+                0.451
+            ],
+            "angle": 0,
+            "content": "DISCUSSION"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.503,
+                0.455,
+                0.934,
+                0.683
+            ],
+            "angle": 0,
+            "content": "The diagnosis of urea cycle enzyme deficiency and the specific enzyme involved were established with certainty in our two cases. Both had hyperammonemia and plasma amino acid abnormalities, which permitted the presumptive diagnosis of the enzyme deficiency. The diagnoses were confirmed by analysis of the subsequently excised livers. To our knowledge, the 2-wk-old infant with CPS-I deficiency is the youngest patient ever to undergo successful liver transplantation. The 36-yr-old man is the only patient with ASS deficiency treated thus far with liver transplantation. Although both patients were comatose at the time of liver replacement, their lethal metabolic abnormalities were promptly and permanently corrected; this has been achieved with numerous other liver-based inborn errors (11).",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.504,
+                0.684,
+                0.934,
+                0.926
+            ],
+            "angle": 0,
+            "content": "In addition to these two patients, seven others with urea cycle deficiencies are known to have been treated with liver transplantation before March 1990 (Table 5). Six of the seven had OTC deficiency (12, 13). The seventh was a 20-mo-old boy with CPS-I deficiency (14). Postoperatively, this child had undetectable citrulline in the plasma, prompting Tuchman to recommend citrulline supplementation postoperatively (14). This treatment was not provided in our patient with CPS-I deficiency during his more-than-3-yr survival. The finding of citrulline in the plasma of our patient suggests that in the human, unlike the rat (15, 16), citrulline originates in the liver and in the gut. It is also noteworthy that the amino acid profile was not completely corrected by liver transplantation in Patient 2. Plasma ornithine level remained slightly high as late as 20 mo after surgery.",
+            "merge_prev": false
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.064,
+                0.04,
+                0.094,
+                0.053
+            ],
+            "angle": 0,
+            "content": "422"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.449,
+                0.041,
+                0.544,
+                0.054
+            ],
+            "angle": 0,
+            "content": "TODO ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.85,
+                0.042,
+                0.929,
+                0.054
+            ],
+            "angle": 0,
+            "content": "HEPATOLOGY"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.072,
+                0.493,
+                0.344
+            ],
+            "angle": 0,
+            "content": "The cumulative experience in our two cases and in the seven others elsewhere establishes the effectiveness of liver transplantation for at least three urea cycle deficiencies. When the operation is successful, the metabolic consequences are corrected to an extent not approached by attempts to activate alternative pathways of waste nitrogen synthesis and excretion or by restriction of dietary protein intake. However, the use of liver transplantation for somatic correction may prove to be only a step toward enzyme replacement. Such therapy with measures other than whole-liver or even isolated hepatocyte transplantation is not hard to envision with recent advances in understanding of the molecular basis for these diseases. Virus-mediated transfer of human ASS has already been accomplished in rodents (17, 18), suggesting that the introduction of a functional complementary DNA into hepatic or nonhepatic autologous cells could be a practical therapeutic possibility in the near future.",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.221,
+                0.355,
+                0.33,
+                0.368
+            ],
+            "angle": 0,
+            "content": "REFERENCES"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.066,
+                0.371,
+                0.493,
+                0.551
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.07,
+                0.373,
+                0.49,
+                0.409
+            ],
+            "angle": 0,
+            "content": "1. Brusilow SW, Horwich AL. Urea cycle enzymes. In: Scriver CR, Beaudet AL, Sly WS, Valle D, eds. The metabolic basis of inherited diseases. 6th ed. New York: McGraw-Hill, 1989:629-663."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.07,
+                0.409,
+                0.49,
+                0.444
+            ],
+            "angle": 0,
+            "content": "2. Bachmann C, Krahenbuhl S, Colombo JP, Schubiger G, Jaggi KH, Tonz O: N-acetylglutamate synthetase deficiency: a disorder of ammonia detoxication. N Engl J Med 1981;304:543-544."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.071,
+                0.444,
+                0.489,
+                0.479
+            ],
+            "angle": 0,
+            "content": "3. Voorhies TM, Ehrlich ME, Duffy TE, Petito CK, Plum FI. Acute hyperammonemia in the young primate: physiologic and neuropathologic correlates. Pediatr Res 1983;17:971-976."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.071,
+                0.479,
+                0.489,
+                0.525
+            ],
+            "angle": 0,
+            "content": "4. Brusilow SW, Danney M, Waber LJ, Batshaw M, Burton B, Levitsky L, Roth K, et al. Treatment of episodic hyperammonemia in children with inborn errors of urea synthesis. New Engl J Med 1984;310:1630-1634."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.071,
+                0.525,
+                0.489,
+                0.55
+            ],
+            "angle": 0,
+            "content": "5. Starzl TE, Demetris AJ. Liver transplantation. Chicago: Year Book Medical Publishers, Inc., 1990:71-84."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.505,
+                0.069,
+                0.933,
+                0.527
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.509,
+                0.07,
+                0.928,
+                0.107
+            ],
+            "angle": 0,
+            "content": "6. Green M, Wald ER, Tzakis A, Todo S, and Starzl TE. Aspergillosis of the CNS in a pediatric liver transplant recipient: case report and review. Rev Infect Dis 1991;13:653-657."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.107,
+                0.928,
+                0.131
+            ],
+            "angle": 0,
+            "content": "7. Roth M, Hampai A. Column chromatography of amino acids with fluorescence detection. J Chromatograph 1993;83:353-356."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.131,
+                0.928,
+                0.164
+            ],
+            "angle": 0,
+            "content": "8. Moore S, Speckman DH, Stein WH. Chromatography of amino acids on sulfonated polystyrene resin: an improved system. Anal Chem 1958;30:1185-1190."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.165,
+                0.928,
+                0.211
+            ],
+            "angle": 0,
+            "content": "9. Nuzum CT, Snodgrass PJ. Multiple assays of the five urea-cycle enzymes in human liver homogenates. In: Grisolia S, Baguena R, Mayor F, eds. The urea cycle. New York: Wiley-Interscience, 1976:235-349."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.508,
+                0.212,
+                0.929,
+                0.258
+            ],
+            "angle": 0,
+            "content": "10. Saheki T, Ueda A, Hosoya M, Kusumi K, Takada S, Tsuda M, Katsunuma T. Qualitative and quantitative abnormalities of argininosuccinate synthetase in citrulinemia. Clin Chim Acta 1981;109:325-335."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.508,
+                0.258,
+                0.928,
+                0.281
+            ],
+            "angle": 0,
+            "content": "11. Starzl TE, Demetris AJ, Van Thiel DH. Medical progress: liver transplantation. Part I. N Engl J Med 1989;321:1014-1022."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.508,
+                0.281,
+                0.928,
+                0.328
+            ],
+            "angle": 0,
+            "content": "12. Broelsch CE, Emond JC, Whitington PF, Thistlethwaite JR, Baker AL, Lichto JL. Application of reduced-size liver transplants as split grafts, auxiliary orthotopic grafts, and living related segmental transplants. Ann Surg 1990;212:368-377."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.508,
+                0.328,
+                0.929,
+                0.374
+            ],
+            "angle": 0,
+            "content": "13. Largilliere C, Houssin D, Gottrand F, Mathey C, Checoury A, Alagille D, Farriaux JP. Liver transplantation for ornithine transcarbamylase deficiency in a girl. Pediatrics 1989;115:415-417."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.507,
+                0.374,
+                0.929,
+                0.41
+            ],
+            "angle": 0,
+            "content": "14. Featherston WR, Rogers QR, Freedland RA. Relative importance of the kidney and liver in synthesis of arginine by the rat. Am J Physiol 1973;224:127-129."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.507,
+                0.41,
+                0.928,
+                0.433
+            ],
+            "angle": 0,
+            "content": "15. Windmueller HG, Spaeth AE. Source of fate of circulating citrulline. Am J Physiol 1981;241:E473-E480."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.507,
+                0.433,
+                0.929,
+                0.468
+            ],
+            "angle": 0,
+            "content": "16. Wood PA, Partridge CA, O'Brien WE, Beaudet AL. Expression of human argininosuccinate synthetase after retrovirus-mediated gene transfer. Som Cell Mol Genet 1986;12:493-500."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.508,
+                0.468,
+                0.929,
+                0.525
+            ],
+            "angle": 0,
+            "content": "17. Wood PA, Herman GE, Chao CYJ, O'Brien WE, Beaudet AL. Retrovirus-mediated gene transfer of argininosuccinate synthetase into cultured rodent cells and human citrullinemic fibroblasts: Cold Spring Harb Symp Quart Biol 1986;51:1027-1034."
+        }
+    ]
+]

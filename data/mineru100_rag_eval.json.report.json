@@ -1,0 +1,2846 @@
+{
+  "input": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md"
+  ],
+  "output": "E:\\RAG\\data\\mineru100_rag_eval.json",
+  "parsed_documents": [
+    {
+      "source_file": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "text": "24527 chars",
+      "file_type": ".md",
+      "parser": "text+mineru-semantic",
+      "page_spans": [
+        {
+          "start": 60,
+          "end": 4595,
+          "page": 1
+        },
+        {
+          "start": 4595,
+          "end": 10051,
+          "page": 2
+        },
+        {
+          "start": 10051,
+          "end": 15232,
+          "page": 3
+        },
+        {
+          "start": 15232,
+          "end": 21802,
+          "page": 4
+        },
+        {
+          "start": 21802,
+          "end": 26044,
+          "page": 5
+        }
+      ],
+      "semantic_spans": [
+        {
+          "start": 60,
+          "end": 81,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 81,
+          "end": 298,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 298,
+          "end": 504,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 504,
+          "end": 2336,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2336,
+          "end": 2852,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2852,
+          "end": 3538,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 3538,
+          "end": 4595,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 4595,
+          "end": 4924,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 4924,
+          "end": 5204,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 5204,
+          "end": 5564,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 5564,
+          "end": 6494,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 6494,
+          "end": 6939,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 6939,
+          "end": 7188,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7188,
+          "end": 7216,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7216,
+          "end": 7251,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7251,
+          "end": 7271,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7271,
+          "end": 7298,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7298,
+          "end": 7322,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7322,
+          "end": 7356,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7356,
+          "end": 7395,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7395,
+          "end": 7425,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7425,
+          "end": 7466,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7466,
+          "end": 7514,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7514,
+          "end": 7748,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7748,
+          "end": 8493,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 8493,
+          "end": 9161,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 9161,
+          "end": 10051,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 10051,
+          "end": 12389,
+          "page": 3,
+          "type": "table",
+          "title": "Table 1 Baseline Patient Characteristics"
+        },
+        {
+          "start": 12389,
+          "end": 12670,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 12670,
+          "end": 13366,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 13366,
+          "end": 15232,
+          "page": 3,
+          "type": "table",
+          "title": "Table 2 Hemodynamic Values Before and After Device Implantation"
+        },
+        {
+          "start": 15232,
+          "end": 16018,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 16018,
+          "end": 16632,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 16632,
+          "end": 17817,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 17817,
+          "end": 18655,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 18655,
+          "end": 18667,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 18667,
+          "end": 19958,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 19958,
+          "end": 20451,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 20451,
+          "end": 20736,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 20736,
+          "end": 21802,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 21802,
+          "end": 22059,
+          "page": 5,
+          "type": "chart"
+        },
+        {
+          "start": 22059,
+          "end": 22321,
+          "page": 5,
+          "type": "chart"
+        },
+        {
+          "start": 22321,
+          "end": 23525,
+          "page": 5,
+          "type": "chart"
+        },
+        {
+          "start": 23525,
+          "end": 23538,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 23538,
+          "end": 23831,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 23831,
+          "end": 23997,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 23997,
+          "end": 24009,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 24009,
+          "end": 25760,
+          "page": 5,
+          "type": "list"
+        },
+        {
+          "start": 25760,
+          "end": 25922,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 25922,
+          "end": 25932,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 25932,
+          "end": 26044,
+          "page": 5,
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "source_file": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "text": "30940 chars",
+      "file_type": ".md",
+      "parser": "text+mineru-semantic",
+      "page_spans": [
+        {
+          "start": 64,
+          "end": 4477,
+          "page": 1
+        },
+        {
+          "start": 4477,
+          "end": 10204,
+          "page": 2
+        },
+        {
+          "start": 10204,
+          "end": 16528,
+          "page": 3
+        },
+        {
+          "start": 16528,
+          "end": 22804,
+          "page": 4
+        },
+        {
+          "start": 22804,
+          "end": 28667,
+          "page": 5
+        },
+        {
+          "start": 28667,
+          "end": 32302,
+          "page": 6
+        }
+      ],
+      "semantic_spans": [
+        {
+          "start": 64,
+          "end": 110,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 110,
+          "end": 509,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 509,
+          "end": 753,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 753,
+          "end": 972,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 972,
+          "end": 1431,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1431,
+          "end": 1621,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1621,
+          "end": 1922,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1922,
+          "end": 1993,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1993,
+          "end": 2078,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2078,
+          "end": 2092,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2092,
+          "end": 2661,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2661,
+          "end": 3614,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 3614,
+          "end": 4477,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 4477,
+          "end": 4502,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 4502,
+          "end": 4532,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 4532,
+          "end": 5441,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 5441,
+          "end": 5474,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 5474,
+          "end": 6231,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 6231,
+          "end": 6243,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 6243,
+          "end": 7078,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7078,
+          "end": 7103,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7103,
+          "end": 7566,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7566,
+          "end": 7581,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 7581,
+          "end": 10028,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 10028,
+          "end": 10204,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 10204,
+          "end": 16528,
+          "page": 3,
+          "type": "table",
+          "title": "Table 1 Demographics, genetics, and renal-related findings in the National Institutes of Health (NIH) propionic acidemia cohort"
+        },
+        {
+          "start": 16528,
+          "end": 17187,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 17187,
+          "end": 17629,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 17629,
+          "end": 17908,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 17908,
+          "end": 18695,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 18695,
+          "end": 19211,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 19211,
+          "end": 20958,
+          "page": 4,
+          "type": "chart"
+        },
+        {
+          "start": 20958,
+          "end": 21498,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 21498,
+          "end": 22804,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 22804,
+          "end": 22816,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 22816,
+          "end": 23426,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 23426,
+          "end": 25046,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 25046,
+          "end": 25712,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 25712,
+          "end": 26724,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 26724,
+          "end": 27711,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 27711,
+          "end": 27738,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 27738,
+          "end": 27893,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 27893,
+          "end": 27911,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 27911,
+          "end": 28667,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 28667,
+          "end": 28679,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 28679,
+          "end": 28726,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 28726,
+          "end": 28866,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 28866,
+          "end": 28878,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 28878,
+          "end": 30307,
+          "page": 6,
+          "type": "list"
+        },
+        {
+          "start": 30307,
+          "end": 32302,
+          "page": 6,
+          "type": "list"
+        }
+      ]
+    },
+    {
+      "source_file": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+      "text": "30475 chars",
+      "file_type": ".md",
+      "parser": "text+mineru-semantic",
+      "page_spans": [
+        {
+          "start": 93,
+          "end": 2034,
+          "page": 1
+        },
+        {
+          "start": 2034,
+          "end": 4488,
+          "page": 2
+        },
+        {
+          "start": 4488,
+          "end": 5964,
+          "page": 3
+        },
+        {
+          "start": 5964,
+          "end": 8057,
+          "page": 4
+        },
+        {
+          "start": 8057,
+          "end": 10044,
+          "page": 5
+        },
+        {
+          "start": 10044,
+          "end": 12919,
+          "page": 6
+        },
+        {
+          "start": 12919,
+          "end": 14178,
+          "page": 7
+        },
+        {
+          "start": 14178,
+          "end": 16524,
+          "page": 8
+        },
+        {
+          "start": 16524,
+          "end": 18334,
+          "page": 9
+        },
+        {
+          "start": 18334,
+          "end": 22594,
+          "page": 10
+        },
+        {
+          "start": 22594,
+          "end": 27962,
+          "page": 11
+        },
+        {
+          "start": 27962,
+          "end": 30612,
+          "page": 12
+        }
+      ],
+      "semantic_spans": [
+        {
+          "start": 93,
+          "end": 132,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 132,
+          "end": 150,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 150,
+          "end": 536,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 536,
+          "end": 548,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 548,
+          "end": 714,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 714,
+          "end": 1315,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1315,
+          "end": 1431,
+          "page": 1,
+          "type": "image",
+          "title": "图 1 主动脉夹层 DeBakey 分型和 Stanford 分型示意图"
+        },
+        {
+          "start": 1431,
+          "end": 1591,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1591,
+          "end": 2034,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2034,
+          "end": 2091,
+          "page": 2,
+          "type": "image",
+          "title": "图 2 夹层分区示意图"
+        },
+        {
+          "start": 2091,
+          "end": 2607,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2607,
+          "end": 3217,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 3217,
+          "end": 3620,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 3620,
+          "end": 3631,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 3631,
+          "end": 4488,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 4488,
+          "end": 4498,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 4498,
+          "end": 4623,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 4623,
+          "end": 4986,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 4986,
+          "end": 5019,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5019,
+          "end": 5100,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5100,
+          "end": 5455,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5455,
+          "end": 5513,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5513,
+          "end": 5583,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5583,
+          "end": 5738,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5738,
+          "end": 5813,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5813,
+          "end": 5882,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5882,
+          "end": 5964,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5964,
+          "end": 6020,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 6020,
+          "end": 6325,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 6325,
+          "end": 6603,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 6603,
+          "end": 7009,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7009,
+          "end": 7042,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7042,
+          "end": 7350,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7350,
+          "end": 7585,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7585,
+          "end": 7725,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7725,
+          "end": 7883,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7883,
+          "end": 8057,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 8057,
+          "end": 8571,
+          "page": 5,
+          "type": "table",
+          "title": "表 1 疑似 AD 的高危因素,疼痛表现和体征"
+        },
+        {
+          "start": 8571,
+          "end": 8918,
+          "page": 5,
+          "type": "image",
+          "title": "图 3 主动脉夹层的诊断流程"
+        },
+        {
+          "start": 8918,
+          "end": 8987,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 8987,
+          "end": 9462,
+          "page": 5,
+          "type": "table",
+          "title": "表 2 各型主动脉夹层的临床表现和影像学特征"
+        },
+        {
+          "start": 9462,
+          "end": 9868,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 9868,
+          "end": 10044,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 10044,
+          "end": 10175,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10175,
+          "end": 10297,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10297,
+          "end": 10525,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10525,
+          "end": 10631,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10631,
+          "end": 10652,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10652,
+          "end": 11238,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11238,
+          "end": 11417,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11417,
+          "end": 12064,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12064,
+          "end": 12919,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12919,
+          "end": 13054,
+          "page": 7,
+          "type": "text"
+        },
+        {
+          "start": 13054,
+          "end": 13244,
+          "page": 7,
+          "type": "text"
+        },
+        {
+          "start": 13244,
+          "end": 13516,
+          "page": 7,
+          "type": "text"
+        },
+        {
+          "start": 13516,
+          "end": 13817,
+          "page": 7,
+          "type": "text"
+        },
+        {
+          "start": 13817,
+          "end": 14178,
+          "page": 7,
+          "type": "text"
+        },
+        {
+          "start": 14178,
+          "end": 14194,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 14194,
+          "end": 14446,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 14446,
+          "end": 14729,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 14729,
+          "end": 14912,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 14912,
+          "end": 15058,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 15058,
+          "end": 15153,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 15153,
+          "end": 15239,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 15239,
+          "end": 15358,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 15358,
+          "end": 15377,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 15377,
+          "end": 15667,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 15667,
+          "end": 16524,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 16524,
+          "end": 16726,
+          "page": 9,
+          "type": "text"
+        },
+        {
+          "start": 16726,
+          "end": 16971,
+          "page": 9,
+          "type": "text"
+        },
+        {
+          "start": 16971,
+          "end": 17277,
+          "page": 9,
+          "type": "text"
+        },
+        {
+          "start": 17277,
+          "end": 17303,
+          "page": 9,
+          "type": "text"
+        },
+        {
+          "start": 17303,
+          "end": 17563,
+          "page": 9,
+          "type": "text"
+        },
+        {
+          "start": 17563,
+          "end": 17733,
+          "page": 9,
+          "type": "text"
+        },
+        {
+          "start": 17733,
+          "end": 18109,
+          "page": 9,
+          "type": "text"
+        },
+        {
+          "start": 18109,
+          "end": 18334,
+          "page": 9,
+          "type": "text"
+        },
+        {
+          "start": 18334,
+          "end": 18518,
+          "page": 10,
+          "type": "text"
+        },
+        {
+          "start": 18518,
+          "end": 19197,
+          "page": 10,
+          "type": "text"
+        },
+        {
+          "start": 19197,
+          "end": 19243,
+          "page": 10,
+          "type": "text"
+        },
+        {
+          "start": 19243,
+          "end": 19765,
+          "page": 10,
+          "type": "list"
+        },
+        {
+          "start": 19765,
+          "end": 22594,
+          "page": 10,
+          "type": "list"
+        },
+        {
+          "start": 22594,
+          "end": 25168,
+          "page": 11,
+          "type": "list"
+        },
+        {
+          "start": 25168,
+          "end": 27962,
+          "page": 11,
+          "type": "list"
+        },
+        {
+          "start": 27962,
+          "end": 28615,
+          "page": 12,
+          "type": "list"
+        },
+        {
+          "start": 28615,
+          "end": 29185,
+          "page": 12,
+          "type": "list"
+        },
+        {
+          "start": 29185,
+          "end": 29196,
+          "page": 12,
+          "type": "text"
+        },
+        {
+          "start": 29196,
+          "end": 29710,
+          "page": 12,
+          "type": "list"
+        },
+        {
+          "start": 29710,
+          "end": 30174,
+          "page": 12,
+          "type": "list"
+        },
+        {
+          "start": 30174,
+          "end": 30185,
+          "page": 12,
+          "type": "text"
+        },
+        {
+          "start": 30185,
+          "end": 30409,
+          "page": 12,
+          "type": "ref_text"
+        },
+        {
+          "start": 30409,
+          "end": 30445,
+          "page": 12,
+          "type": "ref_text"
+        },
+        {
+          "start": 30445,
+          "end": 30612,
+          "page": 12,
+          "type": "list"
+        }
+      ]
+    },
+    {
+      "source_file": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "text": "20360 chars",
+      "file_type": ".md",
+      "parser": "text+mineru-semantic",
+      "page_spans": [
+        {
+          "start": 56,
+          "end": 5645,
+          "page": 1
+        },
+        {
+          "start": 5645,
+          "end": 11297,
+          "page": 2
+        },
+        {
+          "start": 11297,
+          "end": 16407,
+          "page": 3
+        },
+        {
+          "start": 16407,
+          "end": 20401,
+          "page": 4
+        }
+      ],
+      "semantic_spans": [
+        {
+          "start": 56,
+          "end": 123,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 123,
+          "end": 325,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 325,
+          "end": 817,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 817,
+          "end": 2402,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2402,
+          "end": 2621,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2621,
+          "end": 3504,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 3504,
+          "end": 3518,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 3518,
+          "end": 4766,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 4766,
+          "end": 5645,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 5645,
+          "end": 6919,
+          "page": 2,
+          "type": "table",
+          "title": "TABLE 1. Plasma amino acids in patient 1 before and after OLT"
+        },
+        {
+          "start": 6919,
+          "end": 7815,
+          "page": 2,
+          "type": "table",
+          "title": "TABLE 2. Plasma amino acids in patient 2 before and after OLT"
+        },
+        {
+          "start": 7815,
+          "end": 8122,
+          "page": 2,
+          "type": "table",
+          "title": "TABLE 3. Urea cycle enzymes in patient 1"
+        },
+        {
+          "start": 8122,
+          "end": 8524,
+          "page": 2,
+          "type": "table",
+          "title": "TABLE 4. Urea cycle enzymes in patient 2"
+        },
+        {
+          "start": 8524,
+          "end": 9619,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 9619,
+          "end": 10395,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 10395,
+          "end": 10416,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 10416,
+          "end": 10928,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 10928,
+          "end": 11297,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 11297,
+          "end": 13163,
+          "page": 3,
+          "type": "table",
+          "title": "TABLE 5. Urea cycle enzyme deficiencies treated more than 1½ yr ago with OLT"
+        },
+        {
+          "start": 13163,
+          "end": 13402,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 13402,
+          "end": 13682,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 13682,
+          "end": 14076,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 14076,
+          "end": 14445,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 14445,
+          "end": 14716,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 14716,
+          "end": 14728,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 14728,
+          "end": 15525,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 15525,
+          "end": 16407,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 16407,
+          "end": 17404,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 17404,
+          "end": 17416,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 17416,
+          "end": 18282,
+          "page": 4,
+          "type": "list"
+        },
+        {
+          "start": 18282,
+          "end": 20401,
+          "page": 4,
+          "type": "list"
+        }
+      ]
+    },
+    {
+      "source_file": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md",
+      "text": "21960 chars",
+      "file_type": ".md",
+      "parser": "text+mineru-semantic",
+      "page_spans": [
+        {
+          "start": 65,
+          "end": 2079,
+          "page": 1
+        },
+        {
+          "start": 2079,
+          "end": 4247,
+          "page": 2
+        },
+        {
+          "start": 4247,
+          "end": 6598,
+          "page": 3
+        },
+        {
+          "start": 6598,
+          "end": 8401,
+          "page": 4
+        },
+        {
+          "start": 8401,
+          "end": 10739,
+          "page": 5
+        },
+        {
+          "start": 10739,
+          "end": 12645,
+          "page": 6
+        },
+        {
+          "start": 12645,
+          "end": 18305,
+          "page": 7
+        },
+        {
+          "start": 18305,
+          "end": 22011,
+          "page": 8
+        }
+      ],
+      "semantic_spans": [
+        {
+          "start": 65,
+          "end": 84,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 84,
+          "end": 103,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 103,
+          "end": 166,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 166,
+          "end": 199,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 199,
+          "end": 245,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 245,
+          "end": 314,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 314,
+          "end": 416,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 416,
+          "end": 513,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 513,
+          "end": 560,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 560,
+          "end": 603,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 603,
+          "end": 1002,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1002,
+          "end": 1019,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1019,
+          "end": 1299,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1299,
+          "end": 1330,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1330,
+          "end": 1350,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1350,
+          "end": 1561,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1561,
+          "end": 1629,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1629,
+          "end": 1646,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1646,
+          "end": 1823,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1823,
+          "end": 1834,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 1834,
+          "end": 2079,
+          "page": 1,
+          "type": "text"
+        },
+        {
+          "start": 2079,
+          "end": 2092,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2092,
+          "end": 2419,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2419,
+          "end": 2432,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2432,
+          "end": 2533,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2533,
+          "end": 2661,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2661,
+          "end": 2763,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2763,
+          "end": 2786,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2786,
+          "end": 2873,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2873,
+          "end": 2972,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 2972,
+          "end": 3046,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 3046,
+          "end": 3088,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 3088,
+          "end": 3113,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 3113,
+          "end": 3428,
+          "page": 2,
+          "type": "text"
+        },
+        {
+          "start": 3428,
+          "end": 3754,
+          "page": 2,
+          "type": "image"
+        },
+        {
+          "start": 3754,
+          "end": 3988,
+          "page": 2,
+          "type": "image",
+          "title": "图 1 卵巢子宫内膜异位囊肿二维灰阶声像图 囊内容物呈 “磨玻璃样” 回声，箭头所指为较厚的囊壁"
+        },
+        {
+          "start": 3988,
+          "end": 4247,
+          "page": 2,
+          "type": "list"
+        },
+        {
+          "start": 4247,
+          "end": 4574,
+          "page": 3,
+          "type": "image",
+          "title": "图 3 多发卵巢子宫内膜异位囊肿二维灰阶声像图 卵巢内见两个囊内容物呈 “磨玻璃样” 回声的小囊肿（\\* 所示），囊肿间可见卵泡等正常卵巢组织"
+        },
+        {
+          "start": 4574,
+          "end": 4783,
+          "page": 3,
+          "type": "image",
+          "title": "图 4 卵巢子宫内膜异位囊肿内血凝块二维灰阶声像图 囊肿的“磨玻璃样”回声内可见团块状中高回声（\\*所示），彩色多普勒血流显像（CDFI）未见血流信号。手术证实为血凝块"
+        },
+        {
+          "start": 4783,
+          "end": 4976,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 4976,
+          "end": 5146,
+          "page": 3,
+          "type": "image",
+          "title": "图 5 双侧卵巢子宫内膜异位囊肿 “接吻征” 二维灰阶声像图 子宫后方见两个囊性病灶，彼此粘连在一起，探头推之不能分开，呈 “接吻征” 表现（箭头所示）。手术病理证实为左、右卵巢子宫内膜异位囊肿且彼此粘连在一起（R-OEM：右侧卵巢子宫内膜异位囊肿；L-OEM：左侧卵巢子宫内膜异位囊肿）"
+        },
+        {
+          "start": 5146,
+          "end": 5378,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 5378,
+          "end": 5735,
+          "page": 3,
+          "type": "image"
+        },
+        {
+          "start": 5735,
+          "end": 5969,
+          "page": 3,
+          "type": "image",
+          "title": "图 6 妊娠期卵巢子宫内膜异位囊肿蜕膜化二维灰阶声像图 孕 12 周，一侧卵巢见多房囊肿，一个囊腔呈“磨玻璃样”表现，另一个囊腔的囊内壁上见多个形态较规则的乳头状突起（箭头所示）"
+        },
+        {
+          "start": 5969,
+          "end": 6079,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 6079,
+          "end": 6105,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 6105,
+          "end": 6116,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 6116,
+          "end": 6274,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 6274,
+          "end": 6286,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 6286,
+          "end": 6380,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 6380,
+          "end": 6598,
+          "page": 3,
+          "type": "text"
+        },
+        {
+          "start": 6598,
+          "end": 6672,
+          "page": 4,
+          "type": "image",
+          "title": "图 8 膀胱 DIE 二维灰阶声像图 经阴道超声膀胱纵切面，可见病灶位于膀胱后壁肌层内，呈低回声，黏膜层连续性完整（箭头所示）（BL：膀胱）"
+        },
+        {
+          "start": 6672,
+          "end": 6686,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 6686,
+          "end": 6927,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 6927,
+          "end": 7068,
+          "page": 4,
+          "type": "image",
+          "title": "图 9 子宫骶韧带 DIE 二维灰阶声像图 子宫骶韧带上可见呈低回声的 DIE 结节（箭头所示），该患者同时有卵巢多发子宫内膜异位囊肿（星号所示处）、子宫腺肌病及肠道 DIE（USL：骶韧带；UT：子宫；LOV：左卵巢）"
+        },
+        {
+          "start": 7068,
+          "end": 7083,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7083,
+          "end": 7208,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7208,
+          "end": 7222,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7222,
+          "end": 7540,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7540,
+          "end": 7743,
+          "page": 4,
+          "type": "image",
+          "title": "图 10 子宫直肠陷凹 DIE 二维灰阶声像图 病灶位于子宫下段及宫颈后方，呈低回声区，边界不清（箭头所示）（UT：子宫）"
+        },
+        {
+          "start": 7743,
+          "end": 7853,
+          "page": 4,
+          "type": "image",
+          "title": "图 11 子宫直肠陷凹及阴道直肠隔 DIE 累及直肠二维灰阶声像图 宫颈后方及下方可见呈长条形低回声的 DIE 病灶（箭头所示），向后累及直肠，直肠前壁局部增厚，呈低回声（空心箭头所示）（CX：宫颈；R：直肠腔）"
+        },
+        {
+          "start": 7853,
+          "end": 7864,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 7864,
+          "end": 8139,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 8139,
+          "end": 8401,
+          "page": 4,
+          "type": "text"
+        },
+        {
+          "start": 8401,
+          "end": 8544,
+          "page": 5,
+          "type": "image"
+        },
+        {
+          "start": 8544,
+          "end": 8941,
+          "page": 5,
+          "type": "image",
+          "title": "图 12 肠道 DIE 的 “印第安人头饰” 征二维灰阶声像图 直肠 DIE 病灶呈多条羽毛状低回声（箭头所指），似 “印第安人头饰” （UT：子宫）"
+        },
+        {
+          "start": 8941,
+          "end": 9261,
+          "page": 5,
+          "type": "image"
+        },
+        {
+          "start": 9261,
+          "end": 9385,
+          "page": 5,
+          "type": "image",
+          "title": "图 14 肠道 DIE 横切面二维灰阶声像图 横切面上直肠 DIE 病灶呈楔形低回声（R：直肠）"
+        },
+        {
+          "start": 9385,
+          "end": 9444,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 9444,
+          "end": 9468,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 9468,
+          "end": 9548,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 9548,
+          "end": 9636,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 9636,
+          "end": 9832,
+          "page": 5,
+          "type": "text"
+        },
+        {
+          "start": 9832,
+          "end": 10148,
+          "page": 5,
+          "type": "image",
+          "title": "图 16 会阴内异症二维灰阶声像图 病灶位于会阴侧切口瘢痕部位，呈不规则结节状低回声区"
+        },
+        {
+          "start": 10148,
+          "end": 10517,
+          "page": 5,
+          "type": "image",
+          "title": "图 17 腹壁内异症二维灰阶声像图 病灶位于下腹部剖宫产切口瘢痕部位的腹壁肌层内，呈结节状低回声区，内部回声不均匀，部分边界不清"
+        },
+        {
+          "start": 10517,
+          "end": 10739,
+          "page": 5,
+          "type": "image",
+          "title": "图 18 腹壁内异症 CDFI 声像图 病灶（箭头所指）内可见散在点状或短条状血流信号，紧邻病灶后方可见一正常腹壁血管的长条状血流信号（空心箭头所示）"
+        },
+        {
+          "start": 10739,
+          "end": 10797,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10797,
+          "end": 10817,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10817,
+          "end": 10885,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10885,
+          "end": 10939,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 10939,
+          "end": 11065,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11065,
+          "end": 11216,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11216,
+          "end": 11331,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11331,
+          "end": 11382,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11382,
+          "end": 11551,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11551,
+          "end": 11649,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11649,
+          "end": 11666,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11666,
+          "end": 11697,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 11697,
+          "end": 12039,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12039,
+          "end": 12199,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12199,
+          "end": 12434,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12434,
+          "end": 12464,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12464,
+          "end": 12486,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12486,
+          "end": 12513,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12513,
+          "end": 12550,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12550,
+          "end": 12566,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12566,
+          "end": 12583,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12583,
+          "end": 12597,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12597,
+          "end": 12613,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12613,
+          "end": 12625,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12625,
+          "end": 12645,
+          "page": 6,
+          "type": "text"
+        },
+        {
+          "start": 12645,
+          "end": 12665,
+          "page": 7,
+          "type": "ref_text"
+        },
+        {
+          "start": 12665,
+          "end": 12681,
+          "page": 7,
+          "type": "ref_text"
+        },
+        {
+          "start": 12681,
+          "end": 12694,
+          "page": 7,
+          "type": "ref_text"
+        },
+        {
+          "start": 12694,
+          "end": 12713,
+          "page": 7,
+          "type": "ref_text"
+        },
+        {
+          "start": 12713,
+          "end": 12733,
+          "page": 7,
+          "type": "ref_text"
+        },
+        {
+          "start": 12733,
+          "end": 12769,
+          "page": 7,
+          "type": "ref_text"
+        },
+        {
+          "start": 12769,
+          "end": 15301,
+          "page": 7,
+          "type": "list"
+        },
+        {
+          "start": 15301,
+          "end": 18305,
+          "page": 7,
+          "type": "list"
+        },
+        {
+          "start": 18305,
+          "end": 19005,
+          "page": 8,
+          "type": "list"
+        },
+        {
+          "start": 19005,
+          "end": 19536,
+          "page": 8,
+          "type": "list"
+        },
+        {
+          "start": 19536,
+          "end": 19555,
+          "page": 8,
+          "type": "text"
+        },
+        {
+          "start": 19555,
+          "end": 22011,
+          "page": 8,
+          "type": "table",
+          "title": "附件 1 参考文献循证医学等级"
+        }
+      ]
+    }
+  ],
+  "block_count": 112,
+  "block_quota_count": 139,
+  "max_questions_per_block": 5,
+  "active_question_blocks": 101,
+  "markdown_document_count": 5,
+  "splitter": "markdown_heading",
+  "row_count": 67,
+  "skipped": [],
+  "rejected": [
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "87208d0f5b41",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "87208d0f5b41",
+      "reason": "answers not found in evidence quote: ['血浆脂质运载蛋白-2', '血浆尿酸']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "2c6413692bd7",
+      "reason": "answers not found in evidence quote: ['1997年']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "2c6413692bd7",
+      "reason": "answers not found in evidence quote: ['一半（4/8）']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "8330a2470499",
+      "reason": "answers not found in evidence quote: ['从基线到植入后30分钟心脏指数（CI）的变化']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "8330a2470499",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "4637d1f4ccb9",
+      "reason": "answers not found in evidence quote: ['Impella组为1.2 (1.0 to 2.0) mg/dl', 'IABP组为0.8 (0.7 to 0.9) mg/dl']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "4637d1f4ccb9",
+      "reason": "answers not found in evidence quote: ['Impella组为35 ± 17%', 'IABP组为45 ± 17%']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "a002f1e1fe8d",
+      "reason": "answers not found in evidence quote: ['实验室和影像学研究']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "c3879e1f7d42",
+      "reason": "answers not found in evidence quote: ['肝脏移植']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "32751c9f67c1",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "a87a40d1e442",
+      "reason": "answers not found in evidence quote: ['七位']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "a87a40d1e442",
+      "reason": "answers not found in evidence quote: ['六位']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "11b1dc4bb376",
+      "reason": "answers not found in evidence quote: ['0小时：Impella 15 mg/dl，IABP 5 mg/dl；6小时：Impella 50 mg/dl，IABP 5 mg/dl；24小时：Impella 12 mg/dl，IABP 5 mg/dl']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+      "chunk_id": "584508782ebd",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md",
+      "chunk_id": "d73aeeb572a9",
+      "reason": "answers not found in evidence quote: ['约40%~50%']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "cb2007ab0c11",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "cb2007ab0c11",
+      "reason": "answers not found in evidence quote: ['年龄为24岁的患者']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "cb2007ab0c11",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+      "chunk_id": "3fa7176ae990",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "de67a3b1864e",
+      "reason": "answers not found in evidence quote: ['Impella: 22 ± 9 min', 'IABP: 14 ± 8 min']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "de67a3b1864e",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "b8284cb0be39",
+      "reason": "answers not found in evidence quote: ['6% 到 8%']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+      "chunk_id": "1c85f39fa68f",
+      "reason": "answers not found in evidence quote: ['发病时间 ≤14 d为急性期', '14~90 d为亚急性期', '>90 d为慢性期']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "4800cf9e208f",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "456e84924425",
+      "reason": "answers not found in evidence quote: ['Impella组：110 (76 to 197) ml/h', 'IABP组：117 (95 to 223) ml/h']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "456e84924425",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "456e84924425",
+      "reason": "answers not found in evidence quote: ['Impella组：3例', 'IABP组：3例']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "456e84924425",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "456e84924425",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "92c5a49f0313",
+      "reason": "answers not found in evidence quote: ['有效且更优']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "2123559c4cbf",
+      "reason": "answers not found in evidence quote: [\"使用配对t检验比较均值（在通过D'Agostino–Pearson检验检查正态性后）\", '或使用线性回归拟合后比较斜率和截距']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "1f15f82d5e14",
+      "reason": "answers not found in evidence quote: ['9天']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "1f15f82d5e14",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "1f15f82d5e14",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md",
+      "chunk_id": "5fb8c789921f",
+      "reason": "answers not found in evidence quote: ['囊内容物呈“磨玻璃样”回声（也可描述为均匀密集的点状回声），囊壁较厚或厚薄不均，部分囊肿内可见中等或中高回声', '彩色多普勒血流显像（CDFI）示囊肿内部无血流信号，仅在囊壁或分隔上见条状血流', '多数病灶呈单房，少数呈多房，或多发囊肿']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+      "chunk_id": "c4254d3c01bd",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md",
+      "chunk_id": "00388c16e6bf",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "1b5100f8a967",
+      "reason": "answers not found in evidence quote: ['三种']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "1b5100f8a967",
+      "reason": "answers not found in evidence quote: ['人类ASS的病毒介导转移']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "e98d9a6b1f80",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "e98d9a6b1f80",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "c7b4712b9d22",
+      "reason": "answers not found in evidence quote: ['387 μmol/L']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "c7b4712b9d22",
+      "reason": "answers not found in evidence quote: ['从514 μmol/L降至160 μmol/L']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "c7b4712b9d22",
+      "reason": "answers not found in evidence quote: ['14天']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "c7b4712b9d22",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+      "chunk_id": "6d1a3ecabafb",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "9a61e0b2cb12",
+      "reason": "answers not found in evidence quote: ['积极控制酸碱状态', '通过抑制肾素-血管紧张素系统来控制血压', '降尿酸治疗']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "ddc2f3add8fe",
+      "reason": "answers not found in evidence quote: ['植入后30分钟的血流动力学改善，定义为心脏指数（CI）相对于基线的变化']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "ddc2f3add8fe",
+      "reason": "answers not found in evidence quote: ['CI × 平均动脉压（MAP） × 0.0022']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "389db2088187",
+      "reason": "answers not found in evidence quote: ['患者1患有氨甲酰磷酸合成酶-I缺乏症', '患者2患有精氨琥珀酸合成酶缺乏症']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "389db2088187",
+      "reason": "answers not found in evidence quote: ['患者1在术后34个月', '患者2在术后40个月']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md",
+      "chunk_id": "90530b9a5a50",
+      "reason": "answers not found in evidence quote: ['卵巢子宫内膜异位囊肿的高回声部分位于下层、低回声部分位于上层，而畸胎瘤的高回声脂质位于上层。', '卵巢子宫内膜异位囊肿的分层界面有时可随体位改变，且不一定呈直线。']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+      "chunk_id": "50dca7560446",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "0925684b9643",
+      "reason": "answers not found in evidence quote: ['4名']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+      "chunk_id": "203360e4256a",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "3ab014075606",
+      "reason": "answers not found in evidence quote: ['谷氨酰胺水平升高', '瓜氨酸不可检测']"
+    },
+    {
+      "source": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+      "chunk_id": "3ab014075606",
+      "reason": "evidence quote is not copied from source chunk"
+    }
+  ],
+  "rejected_count": 58,
+  "stopped_reason": "",
+  "completed": true,
+  "supported_extensions": [
+    ".bmp",
+    ".canvas",
+    ".css",
+    ".csv",
+    ".doc",
+    ".docx",
+    ".eml",
+    ".epub",
+    ".et",
+    ".ett",
+    ".gif",
+    ".heic",
+    ".htm",
+    ".html",
+    ".jpeg",
+    ".jpg",
+    ".js",
+    ".json",
+    ".jsonl",
+    ".log",
+    ".markdown",
+    ".md",
+    ".pdf",
+    ".png",
+    ".ppt",
+    ".pptx",
+    ".py",
+    ".tif",
+    ".tiff",
+    ".ts",
+    ".txt",
+    ".webp",
+    ".wps",
+    ".wpt",
+    ".xls",
+    ".xlsx"
+  ],
+  "notes": [
+    "Images require OCR before this standalone builder can generate QA.",
+    "Generated rows should be manually spot-checked before becoming benchmark truth."
+  ],
+  "mineru": [
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\seyfarth2008.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\seyfarth2008.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\seyfarth2008.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\seyfarth2008.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\seyfarth2008\\f900c4d5-d435-4e27-be84-82355a8e64d1_content_list_v2.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\seyfarth2008.mineru.md.mineru.json",
+      "text_chars": 26044,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\seyfarth2008.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\seyfarth2008.pdf",
+          "upload_name": "seyfarth2008.pdf",
+          "data_id": "c6b0cb8e1ec991fe7e23c7cad687102e_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 5,
+          "page_offset": 0,
+          "size_bytes": 531222
+        }
+      ]
+    },
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\shchelochkov2019.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\shchelochkov2019.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\shchelochkov2019.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\shchelochkov2019.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\shchelochkov2019\\82759951-2153-4919-a5a8-f98eaab187f4_model.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\shchelochkov2019.mineru.md.mineru.json",
+      "text_chars": 32302,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\shchelochkov2019.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\shchelochkov2019.pdf",
+          "upload_name": "shchelochkov2019.pdf",
+          "data_id": "649c9930e911b21966a8aa61aa3a5ebf_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 6,
+          "page_offset": 0,
+          "size_bytes": 457180
+        }
+      ]
+    },
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）\\5e47860d-190d-4926-8199-98106a9556c2_model.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md.mineru.json",
+      "text_chars": 30612,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+          "upload_name": "Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.pdf",
+          "data_id": "2eeea5add7e64f15c685bae07a3eaa22_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 12,
+          "page_offset": 0,
+          "size_bytes": 2169379
+        }
+      ]
+    },
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\todo1992.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\todo1992.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\todo1992.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\todo1992.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\todo1992\\a040f6f0-abae-4e88-819a-af50b68e389e_model.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\todo1992.mineru.md.mineru.json",
+      "text_chars": 20401,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\todo1992.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\todo1992.pdf",
+          "upload_name": "todo1992.pdf",
+          "data_id": "89d6636229b5fdc6bcd4488b50e2aaaa_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 4,
+          "page_offset": 0,
+          "size_bytes": 428070
+        }
+      ]
+    },
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\子宫内膜异位症超声评估中国专家共识.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\子宫内膜异位症超声评估中国专家共识.mineru.md",
+      "metadata_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\子宫内膜异位症超声评估中国专家共识.mineru.md.meta.json",
+      "zip_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_zips\\子宫内膜异位症超声评估中国专家共识.zip"
+      ],
+      "json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_content_list.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_model.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_content_list_v2.json",
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\layout.json"
+      ],
+      "content_list_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_content_list.json"
+      ],
+      "middle_json_paths": [
+        "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\mineru_json\\子宫内膜异位症超声评估中国专家共识\\66563540-29ac-4eda-bc4f-7c6e2eb3d848_model.json"
+      ],
+      "combined_json_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\mineru_markdown\\子宫内膜异位症超声评估中国专家共识.mineru.md.mineru.json",
+      "text_chars": 22011,
+      "part_count": 1,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\子宫内膜异位症超声评估中国专家共识.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\e9c44387d578\\uploads\\子宫内膜异位症超声评估中国专家共识.pdf",
+          "upload_name": "子宫内膜异位症超声评估中国专家共识.pdf",
+          "data_id": "74f366725e1e787676d6917fc5fc0a81_p1",
+          "part_index": 1,
+          "part_total": 1,
+          "page_start": 1,
+          "page_end": 8,
+          "page_offset": 0,
+          "size_bytes": 9424837
+        }
+      ]
+    }
+  ],
+  "corpus_path": "E:\\RAG\\data\\mineru100_rag_eval.corpus.md",
+  "builder_inputs": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md"
+  ],
+  "assets_dir": "E:\\RAG\\data\\assets\\mineru100_rag_eval",
+  "assets_manifest": "E:\\RAG\\data\\assets\\mineru100_rag_eval\\manifest.json",
+  "deepseekmine_chunk_sidecars": [
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\seyfarth2008.mineru.md.deepseekmine_chunks.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\shchelochkov2019.mineru.md.deepseekmine_chunks.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\Stanford+B+型主动脉夹层诊断和治疗中国专家共识（2022版）.mineru.md.deepseekmine_chunks.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\todo1992.mineru.md.deepseekmine_chunks.json",
+    "E:\\RAG\\data\\assets\\mineru100_rag_eval\\mineru\\子宫内膜异位症超声评估中国专家共识.mineru.md.deepseekmine_chunks.json"
+  ]
+}

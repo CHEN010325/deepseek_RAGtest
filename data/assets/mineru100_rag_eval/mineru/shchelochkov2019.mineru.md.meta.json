@@ -1,0 +1,339 @@
+{
+  "page_spans": [
+    {
+      "page": 1,
+      "start": 64,
+      "end": 4477
+    },
+    {
+      "page": 2,
+      "start": 4477,
+      "end": 10204
+    },
+    {
+      "page": 3,
+      "start": 10204,
+      "end": 16528
+    },
+    {
+      "page": 4,
+      "start": 16528,
+      "end": 22804
+    },
+    {
+      "page": 5,
+      "start": 22804,
+      "end": 28667
+    },
+    {
+      "page": 6,
+      "start": 28667,
+      "end": 32302
+    }
+  ],
+  "semantic_spans": [
+    {
+      "type": "text",
+      "start": 64,
+      "end": 110,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 110,
+      "end": 509,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 509,
+      "end": 753,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 753,
+      "end": 972,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 972,
+      "end": 1431,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1431,
+      "end": 1621,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1621,
+      "end": 1922,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1922,
+      "end": 1993,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1993,
+      "end": 2078,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 2078,
+      "end": 2092,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 2092,
+      "end": 2661,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 2661,
+      "end": 3614,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 3614,
+      "end": 4477,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 4477,
+      "end": 4502,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 4502,
+      "end": 4532,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 4532,
+      "end": 5441,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 5441,
+      "end": 5474,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 5474,
+      "end": 6231,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 6231,
+      "end": 6243,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 6243,
+      "end": 7078,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7078,
+      "end": 7103,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7103,
+      "end": 7566,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7566,
+      "end": 7581,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7581,
+      "end": 10028,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 10028,
+      "end": 10204,
+      "page": 2
+    },
+    {
+      "type": "table",
+      "start": 10204,
+      "end": 16528,
+      "page": 3,
+      "title": "Table 1 Demographics, genetics, and renal-related findings in the National Institutes of Health (NIH) propionic acidemia cohort"
+    },
+    {
+      "type": "chart",
+      "start": 16528,
+      "end": 17187,
+      "page": 4
+    },
+    {
+      "type": "chart",
+      "start": 17187,
+      "end": 17629,
+      "page": 4
+    },
+    {
+      "type": "chart",
+      "start": 17629,
+      "end": 17908,
+      "page": 4
+    },
+    {
+      "type": "chart",
+      "start": 17908,
+      "end": 18695,
+      "page": 4
+    },
+    {
+      "type": "chart",
+      "start": 18695,
+      "end": 19211,
+      "page": 4
+    },
+    {
+      "type": "chart",
+      "start": 19211,
+      "end": 20958,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 20958,
+      "end": 21498,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 21498,
+      "end": 22804,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 22804,
+      "end": 22816,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 22816,
+      "end": 23426,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 23426,
+      "end": 25046,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 25046,
+      "end": 25712,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 25712,
+      "end": 26724,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 26724,
+      "end": 27711,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 27711,
+      "end": 27738,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 27738,
+      "end": 27893,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 27893,
+      "end": 27911,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 27911,
+      "end": 28667,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 28667,
+      "end": 28679,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 28679,
+      "end": 28726,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 28726,
+      "end": 28866,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 28866,
+      "end": 28878,
+      "page": 6
+    },
+    {
+      "type": "list",
+      "start": 28878,
+      "end": 30307,
+      "page": 6
+    },
+    {
+      "type": "list",
+      "start": 30307,
+      "end": 32302,
+      "page": 6
+    }
+  ],
+  "source": "mineru",
+  "format": "rageval_mineru_metadata_v1"
+}

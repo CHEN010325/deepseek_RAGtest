@@ -1,0 +1,171 @@
+{
+  "input": [
+    "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md"
+  ],
+  "output": "E:\\RAG\\data\\custom_rag_eval.json",
+  "parsed_documents": [
+    {
+      "source_file": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "text": "562358 chars",
+      "file_type": ".md",
+      "parser": "text",
+      "page_spans": [
+        {
+          "page": 1,
+          "start": 0,
+          "end": 562358
+        }
+      ]
+    }
+  ],
+  "block_count": 1795,
+  "block_quota_count": 100,
+  "max_questions_per_block": 1,
+  "active_question_blocks": 100,
+  "markdown_document_count": 1,
+  "splitter": "markdown_heading",
+  "row_count": 91,
+  "skipped": [],
+  "rejected": [
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "26796617f4d0",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "1902513abf1a",
+      "reason": "answers not found in evidence quote: ['初期（表证期）']"
+    },
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "d14287b76db2",
+      "reason": "answers not found in evidence quote: ['痰饮：其人素盛今瘦，水走肠间，沥沥有声。', '悬饮：饮后水流在胁下，咳唾引痛。', '溢饮：饮水流行，归于四肢，当汗出而不汗出，身体疼重。', '支饮：咳逆倚息，短气不得卧，其形如肿。']"
+    },
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "8edd9ea3bd5d",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "e893c2ede812",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "f0abfdc348bf",
+      "reason": "evidence quote is not copied from source chunk"
+    },
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "56a316a0ec2a",
+      "reason": "answers not found in evidence quote: ['自汗是朝夕汗自出也', '盗汗是睡而出，觉而收，如寇盗然']"
+    },
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "d211cfa65b13",
+      "reason": "answers not found in evidence quote: ['胃中胀闷疼痛（食积），用保和汤主之', '心血空虚（思虑太过，神不藏），用归脾汤主之', '风寒邪热传心或暑热乘心（躁扰不安），清之而神自定', '寒气在内（神不安），温之而神自藏', '惊恐不安卧（梦中惊跳怵惕），用安神定志丸主之', '痰湿壅遏（呕恶气闷，胸膈不利），用二陈汤导去其痰']"
+    },
+    {
+      "source": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "chunk_id": "973e3e3f08a5",
+      "reason": "evidence quote is not copied from source chunk"
+    }
+  ],
+  "rejected_count": 9,
+  "supported_extensions": [
+    ".bmp",
+    ".canvas",
+    ".css",
+    ".csv",
+    ".doc",
+    ".docx",
+    ".eml",
+    ".epub",
+    ".et",
+    ".ett",
+    ".gif",
+    ".heic",
+    ".htm",
+    ".html",
+    ".jpeg",
+    ".jpg",
+    ".js",
+    ".json",
+    ".jsonl",
+    ".log",
+    ".markdown",
+    ".md",
+    ".pdf",
+    ".png",
+    ".ppt",
+    ".pptx",
+    ".py",
+    ".tif",
+    ".tiff",
+    ".ts",
+    ".txt",
+    ".webp",
+    ".wps",
+    ".wpt",
+    ".xls",
+    ".xlsx"
+  ],
+  "notes": [
+    "Images require OCR before this standalone builder can generate QA.",
+    "Generated rows should be manually spot-checked before becoming benchmark truth."
+  ],
+  "mineru": [
+    {
+      "original_path": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\uploads\\中医内科学.pdf",
+      "success": true,
+      "markdown_path": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md",
+      "text_chars": 562760,
+      "part_count": 3,
+      "error": null,
+      "parts": [
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\uploads\\中医内科学.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\mineru_parts\\中医内科学_part1_1-200.pdf",
+          "upload_name": "中医内科学_part1_1-200.pdf",
+          "data_id": "b598d57a4ca720f6f3c09be634e8b268_p1",
+          "part_index": 1,
+          "part_total": 3,
+          "page_start": 1,
+          "page_end": 200,
+          "page_offset": 0,
+          "size_bytes": 3881754
+        },
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\uploads\\中医内科学.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\mineru_parts\\中医内科学_part2_201-400.pdf",
+          "upload_name": "中医内科学_part2_201-400.pdf",
+          "data_id": "b598d57a4ca720f6f3c09be634e8b268_p2",
+          "part_index": 2,
+          "part_total": 3,
+          "page_start": 201,
+          "page_end": 400,
+          "page_offset": 200,
+          "size_bytes": 4009080
+        },
+        {
+          "original_path": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\uploads\\中医内科学.pdf",
+          "upload_path": "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\mineru_parts\\中医内科学_part3_401-557.pdf",
+          "upload_name": "中医内科学_part3_401-557.pdf",
+          "data_id": "b598d57a4ca720f6f3c09be634e8b268_p3",
+          "part_index": 3,
+          "part_total": 3,
+          "page_start": 401,
+          "page_end": 557,
+          "page_offset": 400,
+          "size_bytes": 3077528
+        }
+      ]
+    }
+  ],
+  "corpus_path": "E:\\RAG\\data\\custom_rag_eval.corpus.md",
+  "builder_inputs": [
+    "E:\\RAG\\temp_docs\\ui_runs\\7c78a44d512e\\mineru_markdown\\中医内科学.mineru.md"
+  ]
+}

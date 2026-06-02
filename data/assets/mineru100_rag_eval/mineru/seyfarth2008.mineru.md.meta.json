@@ -1,0 +1,341 @@
+{
+  "page_spans": [
+    {
+      "page": 1,
+      "start": 60,
+      "end": 4595
+    },
+    {
+      "page": 2,
+      "start": 4595,
+      "end": 10051
+    },
+    {
+      "page": 3,
+      "start": 10051,
+      "end": 15232
+    },
+    {
+      "page": 4,
+      "start": 15232,
+      "end": 21802
+    },
+    {
+      "page": 5,
+      "start": 21802,
+      "end": 26044
+    }
+  ],
+  "semantic_spans": [
+    {
+      "type": "text",
+      "start": 60,
+      "end": 81,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 81,
+      "end": 298,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 298,
+      "end": 504,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 504,
+      "end": 2336,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 2336,
+      "end": 2852,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 2852,
+      "end": 3538,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 3538,
+      "end": 4595,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 4595,
+      "end": 4924,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 4924,
+      "end": 5204,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 5204,
+      "end": 5564,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 5564,
+      "end": 6494,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 6494,
+      "end": 6939,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 6939,
+      "end": 7188,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7188,
+      "end": 7216,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7216,
+      "end": 7251,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7251,
+      "end": 7271,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7271,
+      "end": 7298,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7298,
+      "end": 7322,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7322,
+      "end": 7356,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7356,
+      "end": 7395,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7395,
+      "end": 7425,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7425,
+      "end": 7466,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7466,
+      "end": 7514,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7514,
+      "end": 7748,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 7748,
+      "end": 8493,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 8493,
+      "end": 9161,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 9161,
+      "end": 10051,
+      "page": 2
+    },
+    {
+      "type": "table",
+      "start": 10051,
+      "end": 12389,
+      "page": 3,
+      "title": "Table 1 Baseline Patient Characteristics"
+    },
+    {
+      "type": "text",
+      "start": 12389,
+      "end": 12670,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 12670,
+      "end": 13366,
+      "page": 3
+    },
+    {
+      "type": "table",
+      "start": 13366,
+      "end": 15232,
+      "page": 3,
+      "title": "Table 2 Hemodynamic Values Before and After Device Implantation"
+    },
+    {
+      "type": "chart",
+      "start": 15232,
+      "end": 16018,
+      "page": 4
+    },
+    {
+      "type": "chart",
+      "start": 16018,
+      "end": 16632,
+      "page": 4
+    },
+    {
+      "type": "chart",
+      "start": 16632,
+      "end": 17817,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 17817,
+      "end": 18655,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 18655,
+      "end": 18667,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 18667,
+      "end": 19958,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 19958,
+      "end": 20451,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 20451,
+      "end": 20736,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 20736,
+      "end": 21802,
+      "page": 4
+    },
+    {
+      "type": "chart",
+      "start": 21802,
+      "end": 22059,
+      "page": 5
+    },
+    {
+      "type": "chart",
+      "start": 22059,
+      "end": 22321,
+      "page": 5
+    },
+    {
+      "type": "chart",
+      "start": 22321,
+      "end": 23525,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 23525,
+      "end": 23538,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 23538,
+      "end": 23831,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 23831,
+      "end": 23997,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 23997,
+      "end": 24009,
+      "page": 5
+    },
+    {
+      "type": "list",
+      "start": 24009,
+      "end": 25760,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 25760,
+      "end": 25922,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 25922,
+      "end": 25932,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 25932,
+      "end": 26044,
+      "page": 5
+    }
+  ],
+  "source": "mineru",
+  "format": "rageval_mineru_metadata_v1"
+}

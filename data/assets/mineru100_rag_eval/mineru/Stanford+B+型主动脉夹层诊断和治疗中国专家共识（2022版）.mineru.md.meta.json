@@ -1,0 +1,625 @@
+{
+  "page_spans": [
+    {
+      "page": 1,
+      "start": 93,
+      "end": 2034
+    },
+    {
+      "page": 2,
+      "start": 2034,
+      "end": 4488
+    },
+    {
+      "page": 3,
+      "start": 4488,
+      "end": 5964
+    },
+    {
+      "page": 4,
+      "start": 5964,
+      "end": 8057
+    },
+    {
+      "page": 5,
+      "start": 8057,
+      "end": 10044
+    },
+    {
+      "page": 6,
+      "start": 10044,
+      "end": 12919
+    },
+    {
+      "page": 7,
+      "start": 12919,
+      "end": 14178
+    },
+    {
+      "page": 8,
+      "start": 14178,
+      "end": 16524
+    },
+    {
+      "page": 9,
+      "start": 16524,
+      "end": 18334
+    },
+    {
+      "page": 10,
+      "start": 18334,
+      "end": 22594
+    },
+    {
+      "page": 11,
+      "start": 22594,
+      "end": 27962
+    },
+    {
+      "page": 12,
+      "start": 27962,
+      "end": 30612
+    }
+  ],
+  "semantic_spans": [
+    {
+      "type": "text",
+      "start": 93,
+      "end": 132,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 132,
+      "end": 150,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 150,
+      "end": 536,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 536,
+      "end": 548,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 548,
+      "end": 714,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 714,
+      "end": 1315,
+      "page": 1
+    },
+    {
+      "type": "image",
+      "start": 1315,
+      "end": 1431,
+      "page": 1,
+      "title": "图 1 主动脉夹层 DeBakey 分型和 Stanford 分型示意图"
+    },
+    {
+      "type": "text",
+      "start": 1431,
+      "end": 1591,
+      "page": 1
+    },
+    {
+      "type": "text",
+      "start": 1591,
+      "end": 2034,
+      "page": 1
+    },
+    {
+      "type": "image",
+      "start": 2034,
+      "end": 2091,
+      "page": 2,
+      "title": "图 2 夹层分区示意图"
+    },
+    {
+      "type": "text",
+      "start": 2091,
+      "end": 2607,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 2607,
+      "end": 3217,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 3217,
+      "end": 3620,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 3620,
+      "end": 3631,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 3631,
+      "end": 4488,
+      "page": 2
+    },
+    {
+      "type": "text",
+      "start": 4488,
+      "end": 4498,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 4498,
+      "end": 4623,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 4623,
+      "end": 4986,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 4986,
+      "end": 5019,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5019,
+      "end": 5100,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5100,
+      "end": 5455,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5455,
+      "end": 5513,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5513,
+      "end": 5583,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5583,
+      "end": 5738,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5738,
+      "end": 5813,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5813,
+      "end": 5882,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5882,
+      "end": 5964,
+      "page": 3
+    },
+    {
+      "type": "text",
+      "start": 5964,
+      "end": 6020,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 6020,
+      "end": 6325,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 6325,
+      "end": 6603,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 6603,
+      "end": 7009,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7009,
+      "end": 7042,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7042,
+      "end": 7350,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7350,
+      "end": 7585,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7585,
+      "end": 7725,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7725,
+      "end": 7883,
+      "page": 4
+    },
+    {
+      "type": "text",
+      "start": 7883,
+      "end": 8057,
+      "page": 4
+    },
+    {
+      "type": "table",
+      "start": 8057,
+      "end": 8571,
+      "page": 5,
+      "title": "表 1 疑似 AD 的高危因素,疼痛表现和体征"
+    },
+    {
+      "type": "image",
+      "start": 8571,
+      "end": 8918,
+      "page": 5,
+      "title": "图 3 主动脉夹层的诊断流程"
+    },
+    {
+      "type": "text",
+      "start": 8918,
+      "end": 8987,
+      "page": 5
+    },
+    {
+      "type": "table",
+      "start": 8987,
+      "end": 9462,
+      "page": 5,
+      "title": "表 2 各型主动脉夹层的临床表现和影像学特征"
+    },
+    {
+      "type": "text",
+      "start": 9462,
+      "end": 9868,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 9868,
+      "end": 10044,
+      "page": 5
+    },
+    {
+      "type": "text",
+      "start": 10044,
+      "end": 10175,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10175,
+      "end": 10297,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10297,
+      "end": 10525,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10525,
+      "end": 10631,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10631,
+      "end": 10652,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 10652,
+      "end": 11238,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11238,
+      "end": 11417,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 11417,
+      "end": 12064,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12064,
+      "end": 12919,
+      "page": 6
+    },
+    {
+      "type": "text",
+      "start": 12919,
+      "end": 13054,
+      "page": 7
+    },
+    {
+      "type": "text",
+      "start": 13054,
+      "end": 13244,
+      "page": 7
+    },
+    {
+      "type": "text",
+      "start": 13244,
+      "end": 13516,
+      "page": 7
+    },
+    {
+      "type": "text",
+      "start": 13516,
+      "end": 13817,
+      "page": 7
+    },
+    {
+      "type": "text",
+      "start": 13817,
+      "end": 14178,
+      "page": 7
+    },
+    {
+      "type": "text",
+      "start": 14178,
+      "end": 14194,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 14194,
+      "end": 14446,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 14446,
+      "end": 14729,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 14729,
+      "end": 14912,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 14912,
+      "end": 15058,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 15058,
+      "end": 15153,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 15153,
+      "end": 15239,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 15239,
+      "end": 15358,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 15358,
+      "end": 15377,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 15377,
+      "end": 15667,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 15667,
+      "end": 16524,
+      "page": 8
+    },
+    {
+      "type": "text",
+      "start": 16524,
+      "end": 16726,
+      "page": 9
+    },
+    {
+      "type": "text",
+      "start": 16726,
+      "end": 16971,
+      "page": 9
+    },
+    {
+      "type": "text",
+      "start": 16971,
+      "end": 17277,
+      "page": 9
+    },
+    {
+      "type": "text",
+      "start": 17277,
+      "end": 17303,
+      "page": 9
+    },
+    {
+      "type": "text",
+      "start": 17303,
+      "end": 17563,
+      "page": 9
+    },
+    {
+      "type": "text",
+      "start": 17563,
+      "end": 17733,
+      "page": 9
+    },
+    {
+      "type": "text",
+      "start": 17733,
+      "end": 18109,
+      "page": 9
+    },
+    {
+      "type": "text",
+      "start": 18109,
+      "end": 18334,
+      "page": 9
+    },
+    {
+      "type": "text",
+      "start": 18334,
+      "end": 18518,
+      "page": 10
+    },
+    {
+      "type": "text",
+      "start": 18518,
+      "end": 19197,
+      "page": 10
+    },
+    {
+      "type": "text",
+      "start": 19197,
+      "end": 19243,
+      "page": 10
+    },
+    {
+      "type": "list",
+      "start": 19243,
+      "end": 19765,
+      "page": 10
+    },
+    {
+      "type": "list",
+      "start": 19765,
+      "end": 22594,
+      "page": 10
+    },
+    {
+      "type": "list",
+      "start": 22594,
+      "end": 25168,
+      "page": 11
+    },
+    {
+      "type": "list",
+      "start": 25168,
+      "end": 27962,
+      "page": 11
+    },
+    {
+      "type": "list",
+      "start": 27962,
+      "end": 28615,
+      "page": 12
+    },
+    {
+      "type": "list",
+      "start": 28615,
+      "end": 29185,
+      "page": 12
+    },
+    {
+      "type": "text",
+      "start": 29185,
+      "end": 29196,
+      "page": 12
+    },
+    {
+      "type": "list",
+      "start": 29196,
+      "end": 29710,
+      "page": 12
+    },
+    {
+      "type": "list",
+      "start": 29710,
+      "end": 30174,
+      "page": 12
+    },
+    {
+      "type": "text",
+      "start": 30174,
+      "end": 30185,
+      "page": 12
+    },
+    {
+      "type": "ref_text",
+      "start": 30185,
+      "end": 30409,
+      "page": 12
+    },
+    {
+      "type": "ref_text",
+      "start": 30409,
+      "end": 30445,
+      "page": 12
+    },
+    {
+      "type": "list",
+      "start": 30445,
+      "end": 30612,
+      "page": 12
+    }
+  ],
+  "source": "mineru",
+  "format": "rageval_mineru_metadata_v1"
+}
