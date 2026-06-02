@@ -17,5 +17,10 @@
   },
   "engines": {
     "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "fflate": "^0.8.3",
+    "pdf-lib": "^1.17.1"
   }
 }

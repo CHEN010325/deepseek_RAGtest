@@ -14,6 +14,7 @@ import {
   parseIds,
   resolveDatasetAndCorpus
 } from "./dataset.js";
+import { assetMarkdownPaths, uploadMarkdownAssetsViaNativeUpload } from "./deeplocalsCompat.js";
 import { LLMQuotaExceededError, scoreAnswerWithFallback } from "./judge.js";
 import { scoreRetrievalFromTexts, stripThinking, summarizeDeepLocals } from "./scoring.js";
 
@@ -135,8 +136,28 @@ export async function runDeepLocalsEval(rawOptions, progress = () => {}) {
 
   progress(`检查 DeepLocals 服务：${options.apiBase}`);
   await healthCheck(options.apiBase);
-  progress(`上传测评语料到 DeepLocals：${path.basename(corpusPath)}`);
-  const { docIds, uploadPayload } = await uploadCorpus(options.apiBase, options.knowledgeLabel, corpusPath, options.timeout);
+  const localAssetPaths = selectedIds.length ? [] : await assetMarkdownPaths(path.basename(dataset, ".json"));
+  let docIds;
+  let uploadPayload;
+  if (localAssetPaths.length) {
+    const requestedKnowledgeLabel = options.knowledgeLabel;
+    progress(`创建 DeepLocals 原生知识库，并上传 MinerU Markdown + sidecar：${localAssetPaths.length} 个文件`);
+    const nativeUpload = await uploadMarkdownAssetsViaNativeUpload(
+      options.apiBase,
+      requestedKnowledgeLabel,
+      localAssetPaths,
+      options.timeout,
+      progress
+    );
+    options.knowledgeLabel = nativeUpload.knowledgeLabel;
+    docIds = nativeUpload.docIds;
+    uploadPayload = nativeUpload.uploadPayload;
+  } else {
+    progress(`上传测评语料到 DeepLocals：${path.basename(corpusPath)}`);
+    const corpusUpload = await uploadCorpus(options.apiBase, options.knowledgeLabel, corpusPath, options.timeout);
+    docIds = corpusUpload.docIds;
+    uploadPayload = corpusUpload.uploadPayload;
+  }
   progress(`上传完成，docIds：${docIds.join(", ")}`);
 
   let answerConfig = options.answerConfig;
@@ -208,6 +229,7 @@ export async function runDeepLocalsEval(rawOptions, progress = () => {}) {
     dataset_name: options.datasetName,
     dataset_path: dataset,
     corpus_path: corpusPath,
+    uploaded_asset_markdown_paths: localAssetPaths,
     api_base: options.apiBase,
     knowledge_label: options.knowledgeLabel,
     doc_ids: docIds,

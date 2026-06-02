@@ -1,6 +1,6 @@
 import fs from "node:fs/promises";
 import { LLM_CONFIG_FILE, MIMO_BASE_URL, MIMO_KEY_FILE, MIMO_MODEL, OLLAMA_CONTEXT_CONFIG_FILE } from "./config.js";
-import { pathExists, readJson } from "./utils/files.js";
+import { pathExists, readJson, writeJson } from "./utils/files.js";
 
 export class LLMQuotaExceededError extends Error {
   constructor(message) {
@@ -111,6 +111,17 @@ export const PROVIDER_PRESETS = {
   }
 };
 
+const OLLAMA_CONTEXT_LENGTH_OPTIONS = [4096, 8192, 16384, 32768, 65536, 131072, 262144];
+const DEFAULT_OLLAMA_CONTEXT_LENGTH = 8192;
+
+export function providerPresetsPayload() {
+  return Object.values(PROVIDER_PRESETS).map((preset) => ({
+    ...preset,
+    extra_body: { ...(preset.extra_body ?? {}) },
+    models: [...(preset.models ?? [])]
+  }));
+}
+
 async function readKeyFromFile(filePath) {
   if (!filePath || !(await pathExists(filePath))) return "";
   return (await fs.readFile(filePath, "utf8")).trim();
@@ -169,6 +180,84 @@ export async function loadLlmConfig() {
   return merged;
 }
 
+export async function saveLlmConfig(config) {
+  await writeJson(LLM_CONFIG_FILE, config);
+}
+
+export function maskedConfig(config) {
+  const payload = {
+    ...config,
+    models: Array.isArray(config?.models) ? [...config.models] : [],
+    extra_body: { ...(config?.extra_body ?? {}) }
+  };
+  const key = String(payload.api_key || "");
+  if (key) {
+    payload.api_key_masked = key.length > 8 ? `${key.slice(0, 4)}...${key.slice(-4)}` : "***";
+    payload.api_key = "";
+  }
+  return payload;
+}
+
+function parseModels(value) {
+  if (Array.isArray(value)) {
+    return value.map((item) => String(item || "").trim()).filter(Boolean);
+  }
+  return String(value || "")
+    .replace(/\r/gu, "\n")
+    .split(/[\n,]+/u)
+    .map((item) => item.trim())
+    .filter(Boolean);
+}
+
+function boolFromPayload(value, fallback = true) {
+  if (value === undefined || value === null || value === "") return fallback;
+  if (typeof value === "boolean") return value;
+  return ["1", "true", "yes", "on"].includes(String(value).toLowerCase());
+}
+
+function numberFromPayload(value, fallback, parser = Number.parseFloat) {
+  const parsed = parser(String(value ?? ""));
+  return Number.isFinite(parsed) ? parsed : fallback;
+}
+
+export async function configFromPayload(data = {}) {
+  const providerId = String(data.provider_id ?? data.providerId ?? "mimo").trim() || "mimo";
+  const base = await defaultProviderConfig(providerId);
+  const models = parseModels(data.models);
+  const model = String(data.model ?? data.defaultModel ?? base.model).trim() || base.model;
+  if (model && !models.includes(model)) models.unshift(model);
+  const extraBody = { ...(base.extra_body ?? {}) };
+  if (providerId === "siliconflow") {
+    extraBody.enable_thinking = boolFromPayload(data.enable_thinking ?? data.enableThinking, false);
+  }
+  let apiKey = String(data.api_key ?? data.apiKey ?? "").trim();
+  if (providerId === "ollama") apiKey = "";
+  return {
+    provider_id: providerId,
+    provider_name: String(data.provider_name ?? data.providerName ?? base.provider_name).trim() || base.provider_name,
+    api_key: apiKey,
+    api_url: String(data.api_url ?? data.apiUrl ?? base.api_url).trim() || base.api_url,
+    model,
+    models: models.length ? models : [...base.models],
+    auth_type: String(data.auth_type ?? data.authType ?? base.auth_type).trim() || base.auth_type,
+    max_tokens: numberFromPayload(data.max_tokens ?? data.maxTokens, base.max_tokens, Number.parseInt),
+    temperature: numberFromPayload(data.temperature, base.temperature),
+    top_p: numberFromPayload(data.top_p ?? data.topP, base.top_p),
+    enabled: boolFromPayload(data.enabled, true),
+    description: String(data.description ?? base.description ?? ""),
+    extra_body: extraBody
+  };
+}
+
+export async function preserveSavedApiKey(config) {
+  if (config.provider_id === "ollama" || config.api_key) return config;
+  const saved = await loadLlmConfig();
+  if (saved.provider_id === config.provider_id && saved.api_key) {
+    return { ...config, api_key: saved.api_key };
+  }
+  return config;
+}
+
 export function ensureChatCompletionsUrl(apiUrl) {
   let value = String(apiUrl ?? "").trim().replace(/\/+$/u, "");
   if (!value) return "";
@@ -185,6 +274,29 @@ export function ensureChatCompletionsUrl(apiUrl) {
   return value;
 }
 
+export function ensureModelsUrl(apiUrl) {
+  let value = String(apiUrl ?? "").trim().replace(/\/+$/u, "");
+  if (!value) return "";
+  if (value.endsWith("/chat/completions")) value = value.slice(0, -"/chat/completions".length);
+  if (value.endsWith("/models")) return value;
+  if (/(\/v1|\/v2|\/api\/paas\/v4)$/u.test(value)) return `${value}/models`;
+  if (value.includes("/v1/")) return `${value.split("/v1/", 1)[0]}/v1/models`;
+  if (value.includes("/v2/")) return `${value.split("/v2/", 1)[0]}/v2/models`;
+  if (!value.includes("/v1") && !value.includes("/v2")) return `${value}/v1/models`;
+  return `${value}/models`;
+}
+
+export function ensureOllamaTagsUrl(apiUrl) {
+  let value = String(apiUrl || "http://localhost:11434/v1").trim().replace(/\/+$/u, "");
+  for (const suffix of ["/v1/chat/completions", "/v1/models", "/v1", "/api/chat", "/api/tags"]) {
+    if (value.endsWith(suffix)) {
+      value = value.slice(0, -suffix.length);
+      break;
+    }
+  }
+  return `${value.replace(/\/+$/u, "")}/api/tags`;
+}
+
 function ensureOllamaChatUrl(apiUrl) {
   let value = String(apiUrl || "http://localhost:11434/v1").trim().replace(/\/+$/u, "");
   for (const suffix of ["/v1/chat/completions", "/v1/models", "/v1", "/api/chat", "/api/tags"]) {
@@ -197,9 +309,27 @@ function ensureOllamaChatUrl(apiUrl) {
 }
 
 async function loadOllamaContextLength() {
+  return (await loadOllamaContextConfig()).context_length;
+}
+
+export function normalizeOllamaContextLength(value) {
+  const raw = Number.parseInt(String(value ?? ""), 10);
+  if (!Number.isInteger(raw)) return DEFAULT_OLLAMA_CONTEXT_LENGTH;
+  if (raw < OLLAMA_CONTEXT_LENGTH_OPTIONS[0] || raw > OLLAMA_CONTEXT_LENGTH_OPTIONS.at(-1)) {
+    return DEFAULT_OLLAMA_CONTEXT_LENGTH;
+  }
+  return raw;
+}
+
+export async function loadOllamaContextConfig() {
   const data = await readJson(OLLAMA_CONTEXT_CONFIG_FILE, null);
-  const raw = Number.parseInt(String(data?.context_length ?? 8192), 10);
-  return Number.isInteger(raw) ? raw : 8192;
+  return { context_length: normalizeOllamaContextLength(data?.context_length ?? DEFAULT_OLLAMA_CONTEXT_LENGTH) };
+}
+
+export async function saveOllamaContextConfig(contextLength) {
+  const config = { context_length: normalizeOllamaContextLength(contextLength) };
+  await writeJson(OLLAMA_CONTEXT_CONFIG_FILE, config);
+  return config;
 }
 
 function isQuotaError(statusCode, body) {
@@ -215,6 +345,41 @@ function headersFor(config) {
   if (config.auth_type === "api-key") headers["api-key"] = config.api_key;
   else headers.Authorization = `Bearer ${config.api_key}`;
   return headers;
+}
+
+export async function listProviderModels(config, timeout = 20) {
+  const modelsUrl = config.provider_id === "ollama" ? ensureOllamaTagsUrl(config.api_url) : ensureModelsUrl(config.api_url);
+  if (!modelsUrl) throw new Error("API 地址不能为空");
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeout * 1000);
+  const response = await fetch(modelsUrl, {
+    method: "GET",
+    headers: headersFor(config),
+    signal: controller.signal
+  }).finally(() => clearTimeout(timer));
+  const body = await response.text();
+  const bodyPreview = body.slice(0, 800).replace(/\n/gu, " ");
+  if (response.status >= 400) {
+    throw new Error(`${config.provider_name} 模型列表获取失败: HTTP ${response.status} ${bodyPreview}`);
+  }
+  const payload = JSON.parse(body || "{}");
+  const data = config.provider_id === "ollama"
+    ? payload.models ?? []
+    : payload.data ?? (Array.isArray(payload) ? payload : []);
+  const models = [];
+  if (Array.isArray(data)) {
+    for (const item of data) {
+      const modelId = typeof item === "object" && item
+        ? String(item.name ?? item.model ?? item.id ?? "").trim()
+        : String(item ?? "").trim();
+      if (modelId && !models.includes(modelId)) models.push(modelId);
+    }
+  }
+  if (!models.length) {
+    if (config.provider_id === "ollama") throw new Error("未检测到本地 Ollama 模型，请先启动 Ollama 并 pull 模型");
+    throw new Error(`${config.provider_name} 未返回可用模型列表`);
+  }
+  return models;
 }
 
 function sleep(ms) {
